@@ -1,0 +1,1046 @@
+Date,Message
+2021-04-08T09:30:00.000-04:00,"TR DETECTED: Support=60.69, Resistance=79.1, Len=20, SlopeUp=false"
+2021-04-08T09:30:00.000-04:00,"VP ADAPTIVE: nBins=96 (trLen=20, userMax=30), rangeSize=18.41, binSize=0.192"
+2021-04-08T09:30:00.000-04:00,"VP FULL: VPOC=74.018 VAH=74.114 VAL=67.786 bins=96 totalVol=217,881,658"
+2021-05-03T09:30:00.000-04:00,"TR DETECTED: Support=67.3, Resistance=83.41, Len=20, SlopeUp=false"
+2021-05-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=84 (trLen=20, userMax=30), rangeSize=16.11, binSize=0.192"
+2021-05-03T09:30:00.000-04:00,"VP FULL: VPOC=78.519 VAH=78.615 VAL=72.478 bins=84 totalVol=122,657,109"
+2021-05-03T09:30:00.000-04:00,"VPOC SHIFT: Prior=74.018, will compare when VP recalculates"
+2021-05-05T09:30:00.000-04:00,"VP ADAPTIVE: nBins=84 (trLen=21, userMax=30), rangeSize=16.11, binSize=0.192"
+2021-05-05T09:30:00.000-04:00,"VP FULL: VPOC=78.519 VAH=78.615 VAL=72.478 bins=84 totalVol=128,706,306"
+2021-05-07T09:30:00.000-04:00,SPRING: conf=0.54 [close=0.224 reclaim=0.066 vol=0.079 age=0.138 tests=0.033] pivot=67.3 pivotAge=13b
+2021-05-18T09:30:00.000-04:00,"TR DETECTED: Support=63.83, Resistance=77.787, Len=20, SlopeUp=false"
+2021-05-18T09:30:00.000-04:00,"VP ADAPTIVE: nBins=73 (trLen=20, userMax=30), rangeSize=13.957, binSize=0.191"
+2021-05-18T09:30:00.000-04:00,"VP FULL: VPOC=71.191 VAH=73.581 VAL=63.83 bins=73 totalVol=165,766,687"
+2021-05-18T09:30:00.000-04:00,"VPOC SHIFT: Prior=78.519, will compare when VP recalculates"
+2021-06-21T09:30:00.000-04:00,"TR DETECTED: Support=78.56, Resistance=103.866, Len=20, SlopeUp=false"
+2021-06-21T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=25.306, binSize=0.211"
+2021-06-21T09:30:00.000-04:00,"VP FULL: VPOC=83.094 VAH=93.322 VAL=78.56 bins=120 totalVol=308,671,894"
+2021-06-21T09:30:00.000-04:00,"VPOC SHIFT: Prior=71.191, will compare when VP recalculates"
+2021-07-15T09:30:00.000-04:00,"VP ADAPTIVE: nBins=98 (trLen=20, userMax=30), rangeSize=18.8, binSize=0.192"
+2021-07-15T09:30:00.000-04:00,"VP FULL: VPOC=87.004 VAH=87.1 VAL=80.77 bins=98 totalVol=171,700,320"
+2021-07-19T09:30:00.000-04:00,"VP ADAPTIVE: nBins=102 (trLen=20, userMax=30), rangeSize=19.61, binSize=0.192"
+2021-07-19T09:30:00.000-04:00,"VP FULL: VPOC=90.641 VAH=90.737 VAL=81.509 bins=102 totalVol=158,310,738"
+2021-07-19T09:30:00.000-04:00,SPRING: conf=0.525 [close=0.257 reclaim=0.033 vol=0.068 age=0.133 tests=0.033] pivot=78.56 pivotAge=19b
+2021-07-27T09:30:00.000-04:00,"VP ADAPTIVE: nBins=117 (trLen=30, userMax=30), rangeSize=22.43, binSize=0.192"
+2021-07-27T09:30:00.000-04:00,"VP FULL: VPOC=83.175 VAH=86.146 VAL=71.96 bins=117 totalVol=271,758,811"
+2021-07-27T09:30:00.000-04:00,SPRING: conf=0.685 [close=0.201 reclaim=0.056 vol=0.184 age=0.144 tests=0.1] pivot=74.78 pivotAge=6b
+2021-09-15T09:30:00.000-04:00,SPRING: conf=0.741 [close=0.265 reclaim=0.14 vol=0.096 age=0.14 tests=0.1] pivot=80 pivotAge=11b
+2021-10-01T09:30:00.000-04:00,SPRING: conf=0.701 [close=0.252 reclaim=0.168 vol=0.057 age=0.124 tests=0.1] pivot=73.9 pivotAge=32b
+2021-10-04T09:30:00.000-04:00,SPRING: conf=0.587 [close=0.267 reclaim=0.069 vol=0.11 age=0.141 tests=0] pivot=76.77 pivotAge=10b
+2021-10-06T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=80, userMax=30), rangeSize=23.29, binSize=0.194"
+2021-10-06T09:30:00.000-04:00,"VP FULL: VPOC=83.23 VAH=84.298 VAL=71.1 bins=120 totalVol=647,750,088"
+2021-10-06T09:30:00.000-04:00,SPRING: conf=0.673 [close=0.236 reclaim=0.132 vol=0.092 age=0.112 tests=0.1] pivot=71.96 pivotAge=50b
+2021-10-08T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=81, userMax=30), rangeSize=23.29, binSize=0.194"
+2021-10-08T09:30:00.000-04:00,"VP FULL: VPOC=83.23 VAH=83.909 VAL=71.1 bins=120 totalVol=655,674,381"
+2021-10-11T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=81, userMax=30), rangeSize=23.29, binSize=0.194"
+2021-10-11T09:30:00.000-04:00,"VP FULL: VPOC=81.678 VAH=84.298 VAL=71.1 bins=120 totalVol=611,751,559"
+2021-10-12T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=81, userMax=30), rangeSize=23.29, binSize=0.194"
+2021-10-12T09:30:00.000-04:00,"VP FULL: VPOC=81.678 VAH=84.492 VAL=71.1 bins=120 totalVol=603,812,350"
+2021-10-13T09:30:00.000-04:00,"VP ADAPTIVE: nBins=77 (trLen=20, userMax=30), rangeSize=14.73, binSize=0.191"
+2021-10-13T09:30:00.000-04:00,"VP FULL: VPOC=72.735 VAH=78.378 VAL=69.77 bins=77 totalVol=134,153,199"
+2021-10-22T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-10-22T09:30:00.000-04:00,"VP FULL: VPOC=72.697 VAH=79.401 VAL=69.77 bins=78 totalVol=166,440,615"
+2021-10-25T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-10-25T09:30:00.000-04:00,"VP FULL: VPOC=72.697 VAH=79.401 VAL=69.77 bins=78 totalVol=166,178,873"
+2021-10-26T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-10-26T09:30:00.000-04:00,"VP FULL: VPOC=72.697 VAH=80.345 VAL=69.77 bins=78 totalVol=167,348,930"
+2021-10-27T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-10-27T09:30:00.000-04:00,"VP FULL: VPOC=72.697 VAH=80.534 VAL=69.77 bins=78 totalVol=165,689,233"
+2021-10-28T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-10-28T09:30:00.000-04:00,"VP FULL: VPOC=72.697 VAH=80.534 VAL=69.77 bins=78 totalVol=164,021,258"
+2021-10-29T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-10-29T09:30:00.000-04:00,"VP FULL: VPOC=72.697 VAH=80.534 VAL=69.77 bins=78 totalVol=168,480,956"
+2021-11-01T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-11-01T09:30:00.000-04:00,"VP FULL: VPOC=72.697 VAH=81.101 VAL=69.77 bins=78 totalVol=169,792,885"
+2021-11-02T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-11-02T09:30:00.000-04:00,"VP FULL: VPOC=72.697 VAH=80.534 VAL=69.77 bins=78 totalVol=166,294,461"
+2021-11-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-11-03T09:30:00.000-04:00,"VP FULL: VPOC=72.697 VAH=80.534 VAL=69.77 bins=78 totalVol=164,532,838"
+2021-11-04T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-11-04T09:30:00.000-04:00,"VP FULL: VPOC=72.697 VAH=80.912 VAL=69.77 bins=78 totalVol=165,746,494"
+2021-11-05T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-11-05T09:30:00.000-04:00,"VP FULL: VPOC=72.697 VAH=80.912 VAL=69.77 bins=78 totalVol=165,531,180"
+2021-11-08T09:30:00.000-05:00,"VP ADAPTIVE: nBins=78 (trLen=26, userMax=30), rangeSize=14.73, binSize=0.189"
+2021-11-08T09:30:00.000-05:00,"VP FULL: VPOC=72.697 VAH=80.723 VAL=69.77 bins=78 totalVol=178,343,525"
+2021-12-31T09:30:00.000-05:00,"TR DETECTED: Support=93.27, Resistance=125.99, Len=20, SlopeUp=false"
+2021-12-31T09:30:00.000-05:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=32.72, binSize=0.273"
+2021-12-31T09:30:00.000-05:00,"VP FULL: VPOC=96.679 VAH=109.358 VAL=93.27 bins=120 totalVol=309,031,270"
+2021-12-31T09:30:00.000-05:00,"VPOC SHIFT: Prior=72.697, will compare when VP recalculates"
+2022-01-04T09:30:00.000-05:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=32.72, binSize=0.273"
+2022-01-04T09:30:00.000-05:00,"VP FULL: VPOC=96.679 VAH=105.268 VAL=93.27 bins=120 totalVol=333,534,682"
+2022-01-04T09:30:00.000-05:00,SPRING: conf=0.582 [close=0.136 reclaim=0.063 vol=0.145 age=0.139 tests=0.1] pivot=93.27 pivotAge=12b
+2022-01-18T09:30:00.000-05:00,SPRING: conf=0.403 [close=0.024 reclaim=0.017 vol=0.149 age=0.114 tests=0.1] pivot=76.83 pivotAge=48b
+2022-01-24T09:30:00.000-05:00,SPRING: conf=0.654 [close=0.284 reclaim=0.023 vol=0.18 age=0.101 tests=0.067] pivot=69.77 pivotAge=72b
+2022-01-24T09:30:00.000-05:00,SPRING: conf=0.792 [close=0.284 reclaim=0.161 vol=0.18 age=0.068 tests=0.1] pivot=63.83 pivotAge=181b
+2022-01-24T09:30:00.000-05:00,SPRING: conf=0.86 [close=0.284 reclaim=0.234 vol=0.18 age=0.062 tests=0.1] pivot=60.69 pivotAge=210b
+2022-02-16T09:30:00.000-05:00,SPRING: conf=0.488 [close=0.04 reclaim=0.01 vol=0.2 age=0.138 tests=0.1] pivot=53.63 pivotAge=13b
+2022-03-09T09:30:00.000-05:00,SPRING: conf=0.477 [close=0.19 reclaim=0.086 vol=0.06 age=0.142 tests=0] pivot=43.1 pivotAge=9b
+2022-06-13T09:30:00.000-04:00,SPRING: conf=0.594 [close=0.25 reclaim=0.024 vol=0.082 age=0.138 tests=0.1] pivot=26.31 pivotAge=13b
+2022-07-29T09:30:00.000-04:00,"TR DETECTED: Support=33.9, Resistance=44.5, Len=20, SlopeUp=true"
+2022-07-29T09:30:00.000-04:00,"VP ADAPTIVE: nBins=57 (trLen=20, userMax=30), rangeSize=10.6, binSize=0.186"
+2022-07-29T09:30:00.000-04:00,"VP FULL: VPOC=38.828 VAH=40.967 VAL=33.9 bins=57 totalVol=580,001,880"
+2022-07-29T09:30:00.000-04:00,"VPOC SHIFT: Prior=96.679, will compare when VP recalculates"
+2022-08-01T09:30:00.000-04:00,"VP ADAPTIVE: nBins=63 (trLen=20, userMax=30), rangeSize=11.93, binSize=0.189"
+2022-08-01T09:30:00.000-04:00,"VP FULL: VPOC=38.729 VAH=41.285 VAL=33.9 bins=63 totalVol=571,428,639"
+2022-08-02T09:30:00.000-04:00,"VP ADAPTIVE: nBins=61 (trLen=20, userMax=30), rangeSize=11.42, binSize=0.187"
+2022-08-02T09:30:00.000-04:00,"VP FULL: VPOC=38.869 VAH=41.396 VAL=35.78 bins=61 totalVol=531,992,961"
+2022-08-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=62 (trLen=20, userMax=30), rangeSize=11.73, binSize=0.189"
+2022-08-03T09:30:00.000-04:00,"VP FULL: VPOC=38.712 VAH=41.645 VAL=35.78 bins=62 totalVol=513,352,996"
+2022-08-04T09:30:00.000-04:00,"VP ADAPTIVE: nBins=66 (trLen=20, userMax=30), rangeSize=12.455, binSize=0.189"
+2022-08-04T09:30:00.000-04:00,"VP FULL: VPOC=41.536 VAH=41.63 VAL=38.611 bins=66 totalVol=496,558,651"
+2022-08-05T09:30:00.000-04:00,"VP ADAPTIVE: nBins=66 (trLen=20, userMax=30), rangeSize=12.455, binSize=0.189"
+2022-08-05T09:30:00.000-04:00,"VP FULL: VPOC=38.705 VAH=41.441 VAL=35.78 bins=66 totalVol=453,674,684"
+2022-09-01T09:30:00.000-04:00,SPRING: conf=0.644 [close=0.264 reclaim=0.087 vol=0.068 age=0.126 tests=0.1] pivot=37.74 pivotAge=28b
+2022-09-06T09:30:00.000-04:00,SPRING: conf=0.785 [close=0.272 reclaim=0.214 vol=0.079 age=0.12 tests=0.1] pivot=35.78 pivotAge=38b
+2022-09-14T09:30:00.000-04:00,"TR DETECTED: Support=35.65, Resistance=47.95, Len=20, SlopeUp=false"
+2022-09-14T09:30:00.000-04:00,"VP ADAPTIVE: nBins=65 (trLen=20, userMax=30), rangeSize=12.3, binSize=0.189"
+2022-09-14T09:30:00.000-04:00,"VP FULL: VPOC=44.26 VAH=44.355 VAL=38.299 bins=65 totalVol=310,714,669"
+2022-09-14T09:30:00.000-04:00,"VPOC SHIFT: Prior=38.705, will compare when VP recalculates"
+2022-09-22T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-09-22T09:30:00.000-04:00,"VP FULL: VPOC=44.297 VAH=44.582 VAL=37.938 bins=64 totalVol=365,987,823"
+2022-09-23T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-09-23T09:30:00.000-04:00,"VP FULL: VPOC=44.297 VAH=44.582 VAL=37.938 bins=64 totalVol=353,783,278"
+2022-09-26T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-09-26T09:30:00.000-04:00,"VP FULL: VPOC=44.297 VAH=44.582 VAL=37.558 bins=64 totalVol=362,573,961"
+2022-09-27T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-09-27T09:30:00.000-04:00,"VP FULL: VPOC=44.297 VAH=44.582 VAL=36.988 bins=64 totalVol=370,436,375"
+2022-09-28T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-09-28T09:30:00.000-04:00,"VP FULL: VPOC=44.297 VAH=44.582 VAL=36.988 bins=64 totalVol=372,965,099"
+2022-09-29T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-09-29T09:30:00.000-04:00,"VP FULL: VPOC=44.297 VAH=44.582 VAL=36.798 bins=64 totalVol=375,587,687"
+2022-09-30T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-09-30T09:30:00.000-04:00,"VP FULL: VPOC=44.297 VAH=44.582 VAL=36.798 bins=64 totalVol=373,650,799"
+2022-10-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-10-03T09:30:00.000-04:00,"VP FULL: VPOC=44.297 VAH=44.582 VAL=36.609 bins=64 totalVol=383,208,013"
+2022-10-04T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-10-04T09:30:00.000-04:00,"VP FULL: VPOC=44.297 VAH=44.582 VAL=36.609 bins=64 totalVol=385,352,825"
+2022-10-05T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-10-05T09:30:00.000-04:00,"VP FULL: VPOC=44.297 VAH=44.582 VAL=36.609 bins=64 totalVol=385,321,736"
+2022-10-06T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-10-06T09:30:00.000-04:00,"VP FULL: VPOC=44.297 VAH=44.582 VAL=36.609 bins=64 totalVol=384,310,504"
+2022-10-07T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-10-07T09:30:00.000-04:00,"VP FULL: VPOC=40.311 VAH=40.405 VAL=35.47 bins=64 totalVol=381,446,238"
+2022-10-10T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-10-10T09:30:00.000-04:00,"VP FULL: VPOC=40.311 VAH=40.405 VAL=35.47 bins=64 totalVol=375,621,784"
+2022-10-11T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-10-11T09:30:00.000-04:00,"VP FULL: VPOC=40.311 VAH=40.405 VAL=35.659 bins=64 totalVol=358,764,188"
+2022-10-11T09:30:00.000-04:00,SPRING: conf=0.621 [close=0.17 reclaim=0.099 vol=0.107 age=0.144 tests=0.1] pivot=33.605 pivotAge=6b
+2022-10-11T09:30:00.000-04:00,SPRING: conf=0.62 [close=0.17 reclaim=0.104 vol=0.107 age=0.139 tests=0.1] pivot=33.565 pivotAge=12b
+2022-10-12T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-10-12T09:30:00.000-04:00,"VP FULL: VPOC=40.311 VAH=40.405 VAL=36.039 bins=64 totalVol=365,275,690"
+2022-10-13T09:30:00.000-04:00,"VP ADAPTIVE: nBins=64 (trLen=20, userMax=30), rangeSize=12.15, binSize=0.19"
+2022-10-13T09:30:00.000-04:00,"VP FULL: VPOC=36.134 VAH=37.748 VAL=34.9 bins=64 totalVol=361,285,222"
+2022-10-14T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-14T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=37.13 VAL=33.2 bins=37 totalVol=362,513,273"
+2022-10-14T09:30:00.000-04:00,"SOS CONFIRMED: rally=18.042% low=33.2 high=39.19 bars=3 avgVol=24,963,112.667 adjMinRally=2.8"
+2022-10-14T09:30:00.000-04:00,SCORE_CORE: raw=60 capped=60 cap=100 | HL=25(val=6.867) VolDry=15(vol%=59.116 adj=56) Supply=0 Spread=0(atr%=130.304 adj=68) PB=15(pct=61.937)
+2022-10-14T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-14T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=5 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2022-10-14T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=0.8 vpBins=37
+2022-10-17T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-17T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=36.952 VAL=33.2 bins=37 totalVol=344,718,776"
+2022-10-17T09:30:00.000-04:00,SCORE_CORE: raw=5 capped=5 cap=100 | HL=25(val=6.867) VolDry=0(vol%=172.23 adj=70) Supply=-15 Spread=5(atr%=106.443 adj=85) PB=15(pct=61.937)
+2022-10-17T09:30:00.000-04:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-17T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=5 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-20 FinAuc=5 OEL=0 Unfin=0
+2022-10-17T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=37
+2022-10-18T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-18T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=37.13 VAL=33.2 bins=37 totalVol=329,462,744"
+2022-10-18T09:30:00.000-04:00,SCORE_CORE: raw=20 capped=20 cap=100 | HL=25(val=6.867) VolDry=0(vol%=161.211 adj=70) Supply=-15 Spread=10(atr%=94.118 adj=85) PB=15(pct=61.937)
+2022-10-18T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-18T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=5 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-20 FinAuc=5 OEL=0 Unfin=0
+2022-10-18T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=37
+2022-10-19T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-19T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=37.13 VAL=33.2 bins=37 totalVol=313,578,001"
+2022-10-19T09:30:00.000-04:00,SCORE_CORE: raw=15 capped=15 cap=100 | HL=25(val=6.867) VolDry=0(vol%=137.101 adj=70) Supply=-15 Spread=10(atr%=88.675 adj=85) PB=15(pct=61.937)
+2022-10-19T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-19T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-20 FinAuc=5 OEL=0 Unfin=0
+2022-10-19T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=37
+2022-10-20T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-20T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=37.13 VAL=33.2 bins=37 totalVol=298,682,533"
+2022-10-20T09:30:00.000-04:00,SCORE_CORE: raw=7 capped=7 cap=100 | HL=25(val=6.867) VolDry=0(vol%=122.803 adj=56) Supply=-10 Spread=5(atr%=86.472 adj=68) PB=15(pct=61.937)
+2022-10-20T09:30:00.000-04:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-20T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-20 FinAuc=5 OEL=2 Unfin=0
+2022-10-20T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=0.8 vpBins=37
+2022-10-21T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-21T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=37.13 VAL=33.2 bins=37 totalVol=283,190,008"
+2022-10-21T09:30:00.000-04:00,SCORE_CORE: raw=32 capped=32 cap=100 | HL=25(val=6.867) VolDry=0(vol%=113.641 adj=56) Supply=-10 Spread=5(atr%=86.907 adj=68) PB=15(pct=61.937)
+2022-10-21T09:30:00.000-04:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-21T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=2 Unfin=0
+2022-10-21T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=0.8 vpBins=37
+2022-10-24T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-24T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=37.488 VAL=33.2 bins=37 totalVol=257,753,281"
+2022-10-24T09:30:00.000-04:00,SCORE_CORE: raw=37 capped=37 cap=100 | HL=25(val=6.867) VolDry=0(vol%=103.965 adj=56) Supply=-5 Spread=5(atr%=84.751 adj=68) PB=15(pct=61.937)
+2022-10-24T09:30:00.000-04:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-24T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=2 Unfin=0
+2022-10-24T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=0.8 vpBins=37
+2022-10-25T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-25T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=37.488 VAL=33.2 bins=37 totalVol=235,763,695"
+2022-10-25T09:30:00.000-04:00,SCORE_CORE: raw=65 capped=65 cap=100 | HL=25(val=6.867) VolDry=8(vol%=100.706 adj=70) Supply=-5 Spread=15(atr%=83.254 adj=85) PB=15(pct=61.937)
+2022-10-25T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-25T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=2 Unfin=0
+2022-10-25T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=37
+2022-10-25T09:30:00.000-04:00,LPS ENTRY: price=45.71 score=65 mode=Close Above SOS Midpoint spring=false(conf=0) closeStr=0.947 volOk=true bars=8 pullback=61.937%
+2022-10-26T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-26T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=36.416 VAL=34.272 bins=37 totalVol=219,886,601"
+2022-10-26T09:30:00.000-04:00,SCORE_CORE: raw=61 capped=61 cap=100 | HL=25(val=36.356) VolDry=8(vol%=68.678 adj=56) Supply=0 Spread=10(atr%=81.109 adj=68) PB=8(pct=9.681)
+2022-10-26T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-26T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2022-10-26T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=0.8 vpBins=37
+2022-10-27T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-27T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=37.488 VAL=33.2 bins=37 totalVol=205,730,043"
+2022-10-27T09:30:00.000-04:00,SCORE_CORE: raw=85 capped=85 cap=100 | HL=25(val=34.717) VolDry=15(vol%=57.237 adj=56) Supply=0 Spread=10(atr%=78.788 adj=68) PB=15(pct=18.765)
+2022-10-27T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-27T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2022-10-27T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=0.8 vpBins=37
+2022-10-28T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-28T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=37.488 VAL=33.2 bins=37 totalVol=192,945,841"
+2022-10-28T09:30:00.000-04:00,SCORE_CORE: raw=95 capped=95 cap=100 | HL=25(val=34.717) VolDry=25(vol%=50.471 adj=56) Supply=0 Spread=10(atr%=72.347 adj=68) PB=15(pct=18.765)
+2022-10-28T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-28T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2022-10-28T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=0.8 vpBins=37
+2022-10-31T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-10-31T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=37.488 VAL=33.2 bins=37 totalVol=171,232,881"
+2022-10-31T09:30:00.000-04:00,SCORE_CORE: raw=95 capped=95 cap=100 | HL=25(val=32.445) VolDry=25(vol%=48.194 adj=56) Supply=0 Spread=10(atr%=73.088 adj=68) PB=15(pct=31.357)
+2022-10-31T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-10-31T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2022-10-31T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=0.8 vpBins=37
+2022-11-01T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-11-01T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=36.416 VAL=34.272 bins=37 totalVol=152,400,903"
+2022-11-01T09:30:00.000-04:00,SCORE_CORE: raw=95 capped=95 cap=100 | HL=25(val=32.445) VolDry=25(vol%=45.288 adj=56) Supply=0 Spread=10(atr%=78.231 adj=68) PB=15(pct=31.357)
+2022-11-01T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-11-01T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2022-11-01T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=0.8 vpBins=37
+2022-11-02T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-11-02T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=36.416 VAL=34.272 bins=37 totalVol=138,315,745"
+2022-11-02T09:30:00.000-04:00,SCORE_CORE: raw=90 capped=90 cap=100 | HL=25(val=28.645) VolDry=25(vol%=44.811 adj=56) Supply=0 Spread=5(atr%=82.264 adj=68) PB=15(pct=52.421)
+2022-11-02T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-11-02T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2022-11-02T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=0.8 vpBins=37
+2022-11-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-11-03T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=36.416 VAL=34.808 bins=37 totalVol=123,011,236"
+2022-11-03T09:30:00.000-04:00,SCORE_CORE: raw=92 capped=92 cap=100 | HL=25(val=26.717) VolDry=25(vol%=46.113 adj=56) Supply=0 Spread=5(atr%=87.764 adj=68) PB=15(pct=63.105)
+2022-11-03T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-11-03T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=2 Unfin=0
+2022-11-03T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=0.8 vpBins=37
+2022-11-04T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-11-04T09:30:00.000-04:00,"VP FULL: VPOC=36.148 VAH=36.237 VAL=34.272 bins=37 totalVol=102,461,648"
+2022-11-04T09:30:00.000-04:00,SPRING: conf=0.386 [close=0.051 reclaim=0.007 vol=0.086 age=0.142 tests=0.1] pivot=40.41 pivotAge=9b
+2022-11-04T09:30:00.000-04:00,SCORE_CORE: raw=64 capped=64 cap=100 | HL=25(val=19.111) VolDry=25(vol%=48.678 adj=70) Supply=0 Spread=10(atr%=95.777 adj=85) PB=0(pct=105.259)
+2022-11-04T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.386) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2022-11-04T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-20 FinAuc=5 OEL=2 Unfin=0
+2022-11-04T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=37
+2022-11-07T09:30:00.000-05:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-11-07T09:30:00.000-05:00,"VP FULL: VPOC=36.148 VAH=36.237 VAL=34.272 bins=37 totalVol=105,988,016"
+2022-11-08T09:30:00.000-05:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.61, binSize=0.179"
+2022-11-08T09:30:00.000-05:00,"VP FULL: VPOC=36.148 VAH=37.488 VAL=33.2 bins=37 totalVol=84,811,503"
+2022-11-10T09:30:00.000-05:00,SPRING: conf=0.667 [close=0.292 reclaim=0.053 vol=0.126 age=0.131 tests=0.067] pivot=33.2 pivotAge=22b
+2022-11-21T09:30:00.000-05:00,SPRING: conf=0.548 [close=0.195 reclaim=0.011 vol=0.1 age=0.142 tests=0.1] pivot=30.682 pivotAge=8b
+2022-12-07T09:30:00.000-05:00,"TR DETECTED: Support=29.46, Resistance=38.68, Len=20, SlopeUp=false"
+2022-12-07T09:30:00.000-05:00,"VP ADAPTIVE: nBins=50 (trLen=20, userMax=30), rangeSize=9.22, binSize=0.184"
+2022-12-07T09:30:00.000-05:00,"VP FULL: VPOC=33.793 VAH=33.886 VAL=30.382 bins=50 totalVol=305,963,277"
+2022-12-07T09:30:00.000-05:00,"VPOC SHIFT: Prior=36.148, will compare when VP recalculates"
+2022-12-15T09:30:00.000-05:00,"VP ADAPTIVE: nBins=46 (trLen=20, userMax=30), rangeSize=8.515, binSize=0.185"
+2022-12-15T09:30:00.000-05:00,"VP FULL: VPOC=32.686 VAH=32.964 VAL=30.372 bins=46 totalVol=270,176,540"
+2022-12-16T09:30:00.000-05:00,"VP ADAPTIVE: nBins=47 (trLen=20, userMax=30), rangeSize=8.77, binSize=0.187"
+2022-12-16T09:30:00.000-05:00,"VP FULL: VPOC=32.851 VAH=32.944 VAL=30.332 bins=47 totalVol=277,783,017"
+2022-12-19T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=20, userMax=30), rangeSize=9.14, binSize=0.187"
+2022-12-19T09:30:00.000-05:00,"VP FULL: VPOC=32.852 VAH=32.945 VAL=28.282 bins=49 totalVol=279,901,572"
+2022-12-22T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2022-12-22T09:30:00.000-05:00,"VP FULL: VPOC=32.852 VAH=32.945 VAL=28.282 bins=49 totalVol=300,839,605"
+2022-12-23T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2022-12-23T09:30:00.000-05:00,"VP FULL: VPOC=32.852 VAH=32.945 VAL=27.536 bins=49 totalVol=289,238,134"
+2022-12-27T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2022-12-27T09:30:00.000-05:00,"VP FULL: VPOC=32.852 VAH=32.945 VAL=27.536 bins=49 totalVol=277,390,195"
+2022-12-28T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2022-12-28T09:30:00.000-05:00,"VP FULL: VPOC=32.852 VAH=32.945 VAL=27.536 bins=49 totalVol=273,343,349"
+2022-12-29T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2022-12-29T09:30:00.000-05:00,"VP FULL: VPOC=32.852 VAH=32.945 VAL=27.349 bins=49 totalVol=272,209,970"
+2022-12-30T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2022-12-30T09:30:00.000-05:00,"VP FULL: VPOC=32.852 VAH=32.945 VAL=27.349 bins=49 totalVol=276,677,220"
+2023-01-03T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2023-01-03T09:30:00.000-05:00,"VP FULL: VPOC=28.375 VAH=32.572 VAL=26.23 bins=49 totalVol=274,639,200"
+2023-01-04T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2023-01-04T09:30:00.000-05:00,"VP FULL: VPOC=28.375 VAH=31.08 VAL=26.23 bins=49 totalVol=270,492,233"
+2023-01-05T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2023-01-05T09:30:00.000-05:00,"VP FULL: VPOC=28.375 VAH=31.08 VAL=26.23 bins=49 totalVol=268,357,628"
+2023-01-06T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2023-01-06T09:30:00.000-05:00,"VP FULL: VPOC=28.375 VAH=29.774 VAL=26.23 bins=49 totalVol=271,234,586"
+2023-01-09T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2023-01-09T09:30:00.000-05:00,"VP FULL: VPOC=28.375 VAH=30.52 VAL=26.23 bins=49 totalVol=279,293,047"
+2023-01-10T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2023-01-10T09:30:00.000-05:00,"VP FULL: VPOC=28.375 VAH=30.52 VAL=26.23 bins=49 totalVol=281,205,025"
+2023-01-11T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2023-01-11T09:30:00.000-05:00,"VP FULL: VPOC=28.375 VAH=30.52 VAL=26.23 bins=49 totalVol=285,020,349"
+2023-01-12T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2023-01-12T09:30:00.000-05:00,"VP FULL: VPOC=28.375 VAH=30.52 VAL=26.23 bins=49 totalVol=287,834,970"
+2023-01-13T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=22, userMax=30), rangeSize=9.14, binSize=0.187"
+2023-01-13T09:30:00.000-05:00,"VP FULL: VPOC=28.375 VAH=30.52 VAL=26.23 bins=49 totalVol=284,518,395"
+2023-02-08T09:30:00.000-05:00,"TR DETECTED: Support=32.07, Resistance=41.575, Len=20, SlopeUp=true"
+2023-02-08T09:30:00.000-05:00,"VP ADAPTIVE: nBins=51 (trLen=20, userMax=30), rangeSize=9.505, binSize=0.186"
+2023-02-08T09:30:00.000-05:00,"VP FULL: VPOC=36.45 VAH=37.288 VAL=32.07 bins=51 totalVol=252,863,993"
+2023-02-08T09:30:00.000-05:00,"VPOC SHIFT: Prior=28.375, will compare when VP recalculates"
+2023-03-31T09:30:00.000-04:00,"TR DETECTED: Support=38.81, Resistance=45.49, Len=20, SlopeUp=true"
+2023-03-31T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.68, binSize=0.181"
+2023-03-31T09:30:00.000-04:00,"VP FULL: VPOC=40.345 VAH=43.865 VAL=38.81 bins=37 totalVol=211,284,368"
+2023-03-31T09:30:00.000-04:00,"VPOC SHIFT: Prior=36.45, will compare when VP recalculates"
+2023-04-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.68, binSize=0.181"
+2023-04-03T09:30:00.000-04:00,"VP FULL: VPOC=40.345 VAH=43.865 VAL=38.81 bins=37 totalVol=213,972,681"
+2023-04-04T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.68, binSize=0.181"
+2023-04-04T09:30:00.000-04:00,"VP FULL: VPOC=40.345 VAH=44.046 VAL=38.81 bins=37 totalVol=201,279,165"
+2023-04-05T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.68, binSize=0.181"
+2023-04-05T09:30:00.000-04:00,"VP FULL: VPOC=40.345 VAH=44.046 VAL=38.81 bins=37 totalVol=202,107,674"
+2023-04-06T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.68, binSize=0.181"
+2023-04-06T09:30:00.000-04:00,"VP FULL: VPOC=40.345 VAH=44.046 VAL=38.81 bins=37 totalVol=201,286,000"
+2023-04-10T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.68, binSize=0.181"
+2023-04-10T09:30:00.000-04:00,"VP FULL: VPOC=43.955 VAH=44.046 VAL=40.254 bins=37 totalVol=197,322,992"
+2023-04-11T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.68, binSize=0.181"
+2023-04-11T09:30:00.000-04:00,"VP FULL: VPOC=43.955 VAH=44.587 VAL=38.81 bins=37 totalVol=181,543,071"
+2023-04-12T09:30:00.000-04:00,"VP ADAPTIVE: nBins=38 (trLen=20, userMax=30), rangeSize=6.84, binSize=0.18"
+2023-04-12T09:30:00.000-04:00,"VP FULL: VPOC=43.96 VAH=45.31 VAL=40.81 bins=38 totalVol=195,546,355"
+2023-04-17T09:30:00.000-04:00,"VP ADAPTIVE: nBins=38 (trLen=22, userMax=30), rangeSize=6.84, binSize=0.18"
+2023-04-17T09:30:00.000-04:00,"VP FULL: VPOC=43.96 VAH=45.49 VAL=40.81 bins=38 totalVol=191,916,365"
+2023-04-18T09:30:00.000-04:00,"VP ADAPTIVE: nBins=38 (trLen=22, userMax=30), rangeSize=6.84, binSize=0.18"
+2023-04-18T09:30:00.000-04:00,"VP FULL: VPOC=45.4 VAH=45.67 VAL=42.43 bins=38 totalVol=178,496,462"
+2023-04-19T09:30:00.000-04:00,"VP ADAPTIVE: nBins=38 (trLen=22, userMax=30), rangeSize=6.84, binSize=0.18"
+2023-04-19T09:30:00.000-04:00,"VP FULL: VPOC=45.4 VAH=45.67 VAL=42.43 bins=38 totalVol=164,881,195"
+2023-04-20T09:30:00.000-04:00,"VP ADAPTIVE: nBins=38 (trLen=22, userMax=30), rangeSize=6.84, binSize=0.18"
+2023-04-20T09:30:00.000-04:00,"VP FULL: VPOC=45.4 VAH=45.67 VAL=41.89 bins=38 totalVol=166,287,549"
+2023-04-20T09:30:00.000-04:00,SPRING: conf=0.427 [close=0.165 reclaim=0.034 vol=0.095 age=0.133 tests=0] pivot=41.105 pivotAge=19b
+2023-04-21T09:30:00.000-04:00,"VP ADAPTIVE: nBins=38 (trLen=22, userMax=30), rangeSize=6.84, binSize=0.18"
+2023-04-21T09:30:00.000-04:00,"VP FULL: VPOC=45.4 VAH=45.67 VAL=41.17 bins=38 totalVol=165,540,106"
+2023-04-24T09:30:00.000-04:00,SPRING: conf=0.439 [close=0.072 reclaim=0.027 vol=0.114 age=0.126 tests=0.1] pivot=38.81 pivotAge=29b
+2023-05-01T09:30:00.000-04:00,SPRING: conf=0.393 [close=0.17 reclaim=0.039 vol=0.069 age=0.115 tests=0] pivot=35.815 pivotAge=46b
+2023-05-15T09:30:00.000-04:00,"TR DETECTED: Support=33.703, Resistance=41.99, Len=20, SlopeUp=false"
+2023-05-15T09:30:00.000-04:00,"VP ADAPTIVE: nBins=45 (trLen=20, userMax=30), rangeSize=8.287, binSize=0.184"
+2023-05-15T09:30:00.000-04:00,"VP FULL: VPOC=38.031 VAH=39.78 VAL=33.703 bins=45 totalVol=195,567,504"
+2023-05-15T09:30:00.000-04:00,"VPOC SHIFT: Prior=45.4, will compare when VP recalculates"
+2023-05-17T09:30:00.000-04:00,"VP ADAPTIVE: nBins=46 (trLen=20, userMax=30), rangeSize=8.477, binSize=0.184"
+2023-05-17T09:30:00.000-04:00,"VP FULL: VPOC=37.849 VAH=39.416 VAL=33.703 bins=46 totalVol=195,033,693"
+2023-05-18T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=20, userMax=30), rangeSize=8.977, binSize=0.187"
+2023-05-18T09:30:00.000-04:00,"VP FULL: VPOC=37.911 VAH=39.501 VAL=33.703 bins=48 totalVol=193,615,658"
+2023-06-01T09:30:00.000-04:00,"VP ADAPTIVE: nBins=50 (trLen=30, userMax=30), rangeSize=9.197, binSize=0.184"
+2023-06-01T09:30:00.000-04:00,"VP FULL: VPOC=40.601 VAH=40.693 VAL=35.726 bins=50 totalVol=274,535,414"
+2023-06-02T09:30:00.000-04:00,"VP ADAPTIVE: nBins=51 (trLen=30, userMax=30), rangeSize=9.287, binSize=0.182"
+2023-06-02T09:30:00.000-04:00,"VP FULL: VPOC=39.985 VAH=40.258 VAL=34.613 bins=51 totalVol=274,165,481"
+2023-06-08T09:30:00.000-04:00,SPRING: conf=0.614 [close=0.291 reclaim=0.041 vol=0.075 age=0.141 tests=0.067] pivot=38.66 pivotAge=10b
+2023-06-23T09:30:00.000-04:00,SPRING: conf=0.502 [close=0.129 reclaim=0.037 vol=0.096 age=0.141 tests=0.1] pivot=37.62 pivotAge=10b
+2023-07-11T09:30:00.000-04:00,"VP ADAPTIVE: nBins=45 (trLen=40, userMax=30), rangeSize=7.96, binSize=0.177"
+2023-07-11T09:30:00.000-04:00,"VP FULL: VPOC=39.932 VAH=41.435 VAL=38.782 bins=45 totalVol=359,423,743"
+2023-07-18T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-07-18T09:30:00.000-04:00,"VP FULL: VPOC=39.974 VAH=41.859 VAL=38.627 bins=48 totalVol=367,683,026"
+2023-07-19T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-07-19T09:30:00.000-04:00,"VP FULL: VPOC=39.974 VAH=41.859 VAL=38.447 bins=48 totalVol=365,745,746"
+2023-07-20T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-07-20T09:30:00.000-04:00,"VP FULL: VPOC=39.974 VAH=41.859 VAL=38.447 bins=48 totalVol=366,439,629"
+2023-07-21T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-07-21T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=39.525 bins=48 totalVol=366,292,432"
+2023-07-24T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-07-24T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=39.525 bins=48 totalVol=367,203,075"
+2023-07-25T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-07-25T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=39.525 bins=48 totalVol=366,015,598"
+2023-07-26T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-07-26T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=39.525 bins=48 totalVol=365,858,421"
+2023-07-27T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-07-27T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=39.345 bins=48 totalVol=368,168,418"
+2023-07-28T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-07-28T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=39.345 bins=48 totalVol=362,897,909"
+2023-07-31T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-07-31T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=39.345 bins=48 totalVol=363,444,189"
+2023-08-01T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-08-01T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=39.165 bins=48 totalVol=359,528,015"
+2023-08-02T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-08-02T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=39.165 bins=48 totalVol=362,430,948"
+2023-08-02T09:30:00.000-04:00,SPRING: conf=0.575 [close=0.173 reclaim=0.061 vol=0.113 age=0.127 tests=0.1] pivot=37.19 pivotAge=27b
+2023-08-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-08-03T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=38.986 bins=48 totalVol=355,194,754"
+2023-08-04T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-08-04T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=38.806 bins=48 totalVol=352,797,962"
+2023-08-07T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-08-07T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=38.806 bins=48 totalVol=351,968,919"
+2023-08-08T09:30:00.000-04:00,"VP ADAPTIVE: nBins=48 (trLen=40, userMax=30), rangeSize=8.62, binSize=0.18"
+2023-08-08T09:30:00.000-04:00,"VP FULL: VPOC=43.206 VAH=43.296 VAL=38.806 bins=48 totalVol=359,074,815"
+2023-09-07T09:30:00.000-04:00,"TR DETECTED: Support=26.241, Resistance=31.17, Len=20, SlopeUp=false"
+2023-09-07T09:30:00.000-04:00,"VP ADAPTIVE: nBins=28 (trLen=20, userMax=30), rangeSize=4.929, binSize=0.176"
+2023-09-07T09:30:00.000-04:00,"VP FULL: VPOC=30.026 VAH=30.114 VAL=26.945 bins=28 totalVol=200,005,170"
+2023-09-07T09:30:00.000-04:00,"VPOC SHIFT: Prior=43.206, will compare when VP recalculates"
+2023-09-19T09:30:00.000-04:00,"VP ADAPTIVE: nBins=24 (trLen=20, userMax=30), rangeSize=3.455, binSize=0.144"
+2023-09-19T09:30:00.000-04:00,"VP FULL: VPOC=28.927 VAH=28.999 VAL=27.272 bins=24 totalVol=204,734,806"
+2023-09-19T09:30:00.000-04:00,SPRING: conf=0.671 [close=0.171 reclaim=0.122 vol=0.143 age=0.135 tests=0.1] pivot=26.241 pivotAge=17b
+2023-09-21T09:30:00.000-04:00,"VP ADAPTIVE: nBins=26 (trLen=20, userMax=30), rangeSize=4.425, binSize=0.17"
+2023-09-21T09:30:00.000-04:00,"VP FULL: VPOC=28.809 VAH=29.064 VAL=27.192 bins=26 totalVol=204,471,012"
+2023-09-22T09:30:00.000-04:00,SPRING: conf=0.342 [close=0.108 reclaim=0.029 vol=0.07 age=0.067 tests=0.067] pivot=25.32 pivotAge=186b
+2023-09-25T09:30:00.000-04:00,"VP ADAPTIVE: nBins=33 (trLen=30, userMax=30), rangeSize=5.725, binSize=0.173"
+2023-09-25T09:30:00.000-04:00,"VP FULL: VPOC=28.783 VAH=29.044 VAL=26.615 bins=33 totalVol=306,875,710"
+2023-10-06T09:30:00.000-04:00,"VP ADAPTIVE: nBins=34 (trLen=40, userMax=30), rangeSize=5.73, binSize=0.169"
+2023-10-06T09:30:00.000-04:00,"VP FULL: VPOC=27.324 VAH=29.093 VAL=26.565 bins=34 totalVol=411,154,500"
+2023-10-10T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=40, userMax=30), rangeSize=6.299, binSize=0.17"
+2023-10-10T09:30:00.000-04:00,"VP FULL: VPOC=28.03 VAH=28.796 VAL=24.88 bins=37 totalVol=397,774,142"
+2023-10-11T09:30:00.000-04:00,"VP ADAPTIVE: nBins=40 (trLen=40, userMax=30), rangeSize=7.04, binSize=0.176"
+2023-10-11T09:30:00.000-04:00,"VP FULL: VPOC=27.256 VAH=28.752 VAL=24.88 bins=40 totalVol=397,132,248"
+2023-10-12T09:30:00.000-04:00,"VP ADAPTIVE: nBins=40 (trLen=40, userMax=30), rangeSize=7.08, binSize=0.177"
+2023-10-12T09:30:00.000-04:00,"VP FULL: VPOC=27.27 VAH=29.128 VAL=26.65 bins=40 totalVol=395,720,429"
+2023-10-19T09:30:00.000-04:00,"VP ADAPTIVE: nBins=42 (trLen=50, userMax=30), rangeSize=7.19, binSize=0.171"
+2023-10-19T09:30:00.000-04:00,"VP FULL: VPOC=28.903 VAH=29.673 VAL=24.88 bins=42 totalVol=508,639,793"
+2023-10-24T09:30:00.000-04:00,"VP ADAPTIVE: nBins=47 (trLen=50, userMax=30), rangeSize=8.31, binSize=0.177"
+2023-10-24T09:30:00.000-04:00,"VP FULL: VPOC=27.267 VAH=29.123 VAL=25.41 bins=47 totalVol=489,008,809"
+2023-11-02T09:30:00.000-04:00,"VP ADAPTIVE: nBins=26 (trLen=20, userMax=30), rangeSize=4.48, binSize=0.172"
+2023-11-02T09:30:00.000-04:00,"VP FULL: VPOC=31.494 VAH=31.752 VAL=30.202 bins=26 totalVol=164,271,157"
+2023-11-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=31 (trLen=20, userMax=30), rangeSize=5.5, binSize=0.177"
+2023-11-03T09:30:00.000-04:00,"VP FULL: VPOC=31.493 VAH=31.759 VAL=30.34 bins=31 totalVol=164,635,290"
+2023-11-06T09:30:00.000-05:00,"VP ADAPTIVE: nBins=33 (trLen=20, userMax=30), rangeSize=5.85, binSize=0.177"
+2023-11-06T09:30:00.000-05:00,"VP FULL: VPOC=31.534 VAH=31.8 VAL=30.205 bins=33 totalVol=168,318,400"
+2023-12-07T09:30:00.000-05:00,"TR DETECTED: Support=36.335, Resistance=41.89, Len=20, SlopeUp=true"
+2023-12-07T09:30:00.000-05:00,"VP ADAPTIVE: nBins=31 (trLen=20, userMax=30), rangeSize=5.555, binSize=0.179"
+2023-12-07T09:30:00.000-05:00,"VP FULL: VPOC=38.037 VAH=39.919 VAL=36.335 bins=31 totalVol=195,953,805"
+2023-12-07T09:30:00.000-05:00,"VPOC SHIFT: Prior=31.534, will compare when VP recalculates"
+2023-12-08T09:30:00.000-05:00,"VP ADAPTIVE: nBins=33 (trLen=20, userMax=30), rangeSize=5.945, binSize=0.18"
+2023-12-08T09:30:00.000-05:00,"VP FULL: VPOC=38.046 VAH=39.938 VAL=36.335 bins=33 totalVol=195,666,397"
+2023-12-13T09:30:00.000-05:00,"VP ADAPTIVE: nBins=42 (trLen=20, userMax=30), rangeSize=7.655, binSize=0.182"
+2023-12-13T09:30:00.000-05:00,"VP FULL: VPOC=41.165 VAH=41.256 VAL=37.975 bins=42 totalVol=185,011,443"
+2023-12-14T09:30:00.000-05:00,"VP ADAPTIVE: nBins=45 (trLen=20, userMax=30), rangeSize=8.285, binSize=0.184"
+2023-12-14T09:30:00.000-05:00,"VP FULL: VPOC=41.214 VAH=41.306 VAL=37.808 bins=45 totalVol=178,270,426"
+2023-12-15T09:30:00.000-05:00,"VP ADAPTIVE: nBins=47 (trLen=20, userMax=30), rangeSize=8.715, binSize=0.185"
+2023-12-15T09:30:00.000-05:00,"VP FULL: VPOC=41.063 VAH=41.341 VAL=36.706 bins=47 totalVol=179,231,859"
+2023-12-18T09:30:00.000-05:00,"VP ADAPTIVE: nBins=47 (trLen=20, userMax=30), rangeSize=8.715, binSize=0.185"
+2023-12-18T09:30:00.000-05:00,"VP FULL: VPOC=44.216 VAH=44.308 VAL=38.931 bins=47 totalVol=175,174,924"
+2023-12-19T09:30:00.000-05:00,"VP ADAPTIVE: nBins=47 (trLen=20, userMax=30), rangeSize=8.715, binSize=0.185"
+2023-12-19T09:30:00.000-05:00,"VP FULL: VPOC=44.216 VAH=44.308 VAL=38.931 bins=47 totalVol=172,258,154"
+2023-12-20T09:30:00.000-05:00,"VP ADAPTIVE: nBins=47 (trLen=20, userMax=30), rangeSize=8.715, binSize=0.185"
+2023-12-20T09:30:00.000-05:00,"VP FULL: VPOC=44.216 VAH=44.679 VAL=39.858 bins=47 totalVol=165,942,462"
+2023-12-21T09:30:00.000-05:00,"VP ADAPTIVE: nBins=49 (trLen=30, userMax=30), rangeSize=8.842, binSize=0.18"
+2023-12-21T09:30:00.000-05:00,"VP FULL: VPOC=44.184 VAH=44.635 VAL=38.32 bins=49 totalVol=294,517,209"
+2023-12-22T09:30:00.000-05:00,"VP ADAPTIVE: nBins=53 (trLen=30, userMax=30), rangeSize=9.785, binSize=0.185"
+2023-12-22T09:30:00.000-05:00,"VP FULL: VPOC=44.181 VAH=44.828 VAL=38.55 bins=53 totalVol=288,206,973"
+2023-12-26T09:30:00.000-05:00,"VP ADAPTIVE: nBins=57 (trLen=30, userMax=30), rangeSize=10.545, binSize=0.185"
+2023-12-26T09:30:00.000-05:00,"VP FULL: VPOC=44.198 VAH=44.845 VAL=38.74 bins=57 totalVol=282,487,945"
+2023-12-27T09:30:00.000-05:00,"VP ADAPTIVE: nBins=57 (trLen=30, userMax=30), rangeSize=10.584, binSize=0.186"
+2023-12-27T09:30:00.000-05:00,"VP FULL: VPOC=39.77 VAH=43.205 VAL=36.335 bins=57 totalVol=278,471,741"
+2023-12-28T09:30:00.000-05:00,"VP ADAPTIVE: nBins=59 (trLen=30, userMax=30), rangeSize=10.865, binSize=0.184"
+2023-12-28T09:30:00.000-05:00,"VP FULL: VPOC=44.161 VAH=44.806 VAL=38.361 bins=59 totalVol=269,593,363"
+2024-02-07T09:30:00.000-05:00,"SOS CONFIRMED: rally=23.427% low=37.755 high=46.6 bars=9 avgVol=10,997,407.444 adjMinRally=3.5"
+2024-02-07T09:30:00.000-05:00,SCORE_CORE: raw=35 capped=35 cap=80 | HL=25(val=18.151) VolDry=0(vol%=394.948 adj=70) Supply=-15 Spread=0(atr%=206.294 adj=85) PB=15(pct=41.492)
+2024-02-07T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-07T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=5 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2024-02-07T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=59
+2024-02-08T09:30:00.000-05:00,SCORE_CORE: raw=30 capped=30 cap=80 | HL=25(val=18.151) VolDry=0(vol%=275.713 adj=70) Supply=-15 Spread=0(atr%=179.897 adj=85) PB=15(pct=41.492)
+2024-02-08T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-08T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2024-02-08T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=59
+2024-02-09T09:30:00.000-05:00,SCORE_CORE: raw=32 capped=32 cap=80 | HL=25(val=18.151) VolDry=0(vol%=222.311 adj=70) Supply=-15 Spread=2(atr%=145.001 adj=85) PB=15(pct=41.492)
+2024-02-09T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-09T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2024-02-09T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=59
+2024-02-12T09:30:00.000-05:00,SCORE_CORE: raw=35 capped=35 cap=80 | HL=25(val=18.151) VolDry=0(vol%=187.9 adj=70) Supply=-15 Spread=5(atr%=126.22 adj=85) PB=15(pct=41.492)
+2024-02-12T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-12T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2024-02-12T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=59
+2024-02-13T09:30:00.000-05:00,SCORE_CORE: raw=35 capped=35 cap=80 | HL=25(val=14.298) VolDry=0(vol%=168.597 adj=70) Supply=-15 Spread=5(atr%=115.255 adj=85) PB=15(pct=57.321)
+2024-02-13T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-13T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2024-02-13T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=59
+2024-02-14T09:30:00.000-05:00,SCORE_CORE: raw=35 capped=35 cap=80 | HL=25(val=14.298) VolDry=0(vol%=151.531 adj=70) Supply=-15 Spread=5(atr%=111.366 adj=85) PB=15(pct=57.321)
+2024-02-14T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-14T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2024-02-14T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=59
+2024-02-15T09:30:00.000-05:00,SCORE_CORE: raw=37 capped=37 cap=80 | HL=25(val=14.298) VolDry=0(vol%=137.528 adj=70) Supply=-15 Spread=5(atr%=106.575 adj=85) PB=15(pct=57.321)
+2024-02-15T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-15T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-02-15T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=59
+2024-02-16T09:30:00.000-05:00,SCORE_CORE: raw=47 capped=47 cap=80 | HL=25(val=14.298) VolDry=0(vol%=127.979 adj=70) Supply=-10 Spread=10(atr%=101.935 adj=85) PB=15(pct=57.321)
+2024-02-16T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-16T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-02-16T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=59
+2024-02-20T09:30:00.000-05:00,SCORE_CORE: raw=38 capped=38 cap=80 | HL=25(val=12.288) VolDry=3(vol%=120.794 adj=70) Supply=-10 Spread=5(atr%=102.599 adj=85) PB=8(pct=65.574)
+2024-02-20T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-20T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-02-20T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=59
+2024-02-21T09:30:00.000-05:00,SCORE_CORE: raw=43 capped=43 cap=80 | HL=25(val=11.174) VolDry=3(vol%=117.091 adj=70) Supply=-10 Spread=10(atr%=100.05 adj=85) PB=8(pct=70.153)
+2024-02-21T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-21T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-02-21T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=59
+2024-02-22T09:30:00.000-05:00,SCORE_CORE: raw=43 capped=43 cap=80 | HL=25(val=11.174) VolDry=3(vol%=112.896 adj=70) Supply=-10 Spread=10(atr%=100.61 adj=85) PB=8(pct=70.153)
+2024-02-22T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-22T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-02-22T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1 vpBins=59
+2024-02-23T09:30:00.000-05:00,SCORE_CORE: raw=18 capped=18 cap=60 | HL=25(val=11.174) VolDry=3(vol%=109.368 adj=70) Supply=-5 Spread=10(atr%=100.351 adj=85) PB=8(pct=70.153)
+2024-02-23T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-23T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-02-23T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1 vpBins=59
+2024-02-26T09:30:00.000-05:00,SCORE_CORE: raw=18 capped=18 cap=60 | HL=25(val=11.174) VolDry=3(vol%=106.379 adj=70) Supply=-5 Spread=10(atr%=100.078 adj=85) PB=8(pct=70.153)
+2024-02-26T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-26T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-02-26T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1 vpBins=59
+2024-02-27T09:30:00.000-05:00,SCORE_CORE: raw=23 capped=23 cap=60 | HL=25(val=11.174) VolDry=8(vol%=103.349 adj=70) Supply=-5 Spread=10(atr%=100.075 adj=85) PB=8(pct=70.153)
+2024-02-27T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-27T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-02-27T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1 vpBins=59
+2024-02-28T09:30:00.000-05:00,SCORE_CORE: raw=20 capped=20 cap=60 | HL=25(val=8.779) VolDry=8(vol%=100.249 adj=70) Supply=-5 Spread=10(atr%=98.437 adj=85) PB=0(pct=79.989)
+2024-02-28T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-28T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-02-28T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1 vpBins=59
+2024-02-29T09:30:00.000-05:00,SCORE_CORE: raw=20 capped=20 cap=60 | HL=25(val=8.779) VolDry=8(vol%=98.247 adj=70) Supply=-5 Spread=10(atr%=98.676 adj=85) PB=0(pct=79.989)
+2024-02-29T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-02-29T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-02-29T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1 vpBins=59
+2024-03-01T09:30:00.000-05:00,SCORE_CORE: raw=20 capped=20 cap=60 | HL=25(val=8.779) VolDry=8(vol%=95.701 adj=70) Supply=-5 Spread=10(atr%=98.744 adj=85) PB=0(pct=79.989)
+2024-03-01T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-03-01T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-03-01T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1 vpBins=59
+2024-03-04T09:30:00.000-05:00,SCORE_CORE: raw=25 capped=25 cap=60 | HL=25(val=8.779) VolDry=8(vol%=93.761 adj=70) Supply=0 Spread=10(atr%=98.531 adj=85) PB=0(pct=79.989)
+2024-03-04T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-03-04T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-03-04T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1 vpBins=59
+2024-03-05T09:30:00.000-05:00,SPRING: conf=0.496 [close=0.13 reclaim=0.078 vol=0.057 age=0.13 tests=0.1] pivot=38.51 pivotAge=23b
+2024-03-05T09:30:00.000-05:00,SCORE_CORE: raw=29 capped=29 cap=60 | HL=25(val=5.601) VolDry=8(vol%=91.581 adj=70) Supply=0 Spread=10(atr%=98.513 adj=85) PB=0(pct=93.047)
+2024-03-05T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.496) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2024-03-05T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=2 Unfin=0
+2024-03-05T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1 vpBins=59
+2024-03-18T09:30:00.000-04:00,"VP ADAPTIVE: nBins=39 (trLen=20, userMax=30), rangeSize=7.11, binSize=0.182"
+2024-03-18T09:30:00.000-04:00,"VP FULL: VPOC=40.599 VAH=41.237 VAL=38.867 bins=39 totalVol=156,409,226"
+2024-03-19T09:30:00.000-04:00,"VP ADAPTIVE: nBins=40 (trLen=20, userMax=30), rangeSize=7.21, binSize=0.18"
+2024-03-19T09:30:00.000-04:00,"VP FULL: VPOC=40.627 VAH=41.258 VAL=38.914 bins=40 totalVol=157,258,176"
+2024-03-19T09:30:00.000-04:00,SPRING: conf=0.489 [close=0.193 reclaim=0.033 vol=0.099 age=0.098 tests=0.067] pivot=36.335 pivotAge=80b
+2024-03-20T09:30:00.000-04:00,SPRING: conf=0.545 [close=0.292 reclaim=0.01 vol=0.093 age=0.116 tests=0.033] pivot=37.755 pivotAge=44b
+2024-04-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=41 (trLen=30, userMax=30), rangeSize=7.27, binSize=0.177"
+2024-04-03T09:30:00.000-04:00,"VP FULL: VPOC=37.12 VAH=40.755 VAL=35.79 bins=41 totalVol=219,560,044"
+2024-04-03T09:30:00.000-04:00,SPRING: conf=0.709 [close=0.224 reclaim=0.17 vol=0.075 age=0.141 tests=0.1] pivot=35.85 pivotAge=10b
+2024-04-18T09:30:00.000-04:00,"VP ADAPTIVE: nBins=44 (trLen=40, userMax=30), rangeSize=7.78, binSize=0.177"
+2024-04-18T09:30:00.000-04:00,"VP FULL: VPOC=37.137 VAH=40.585 VAL=35.28 bins=44 totalVol=274,998,461"
+2024-04-19T09:30:00.000-04:00,"VP ADAPTIVE: nBins=45 (trLen=40, userMax=30), rangeSize=8.07, binSize=0.179"
+2024-04-19T09:30:00.000-04:00,"VP FULL: VPOC=37.062 VAH=40.559 VAL=34.82 bins=45 totalVol=273,283,745"
+2024-04-23T09:30:00.000-04:00,SPRING: conf=0.446 [close=0.094 reclaim=0.072 vol=0.143 age=0.137 tests=0] pivot=35.79 pivotAge=14b
+2024-04-24T09:30:00.000-04:00,"VP ADAPTIVE: nBins=46 (trLen=42, userMax=30), rangeSize=8.07, binSize=0.175"
+2024-04-24T09:30:00.000-04:00,"VP FULL: VPOC=37.188 VAH=40.083 VAL=34.82 bins=46 totalVol=289,764,222"
+2024-04-25T09:30:00.000-04:00,"VP ADAPTIVE: nBins=46 (trLen=42, userMax=30), rangeSize=8.07, binSize=0.175"
+2024-04-25T09:30:00.000-04:00,"VP FULL: VPOC=37.188 VAH=40.083 VAL=34.82 bins=46 totalVol=282,010,197"
+2024-04-26T09:30:00.000-04:00,"VP ADAPTIVE: nBins=46 (trLen=42, userMax=30), rangeSize=8.07, binSize=0.175"
+2024-04-26T09:30:00.000-04:00,"VP FULL: VPOC=37.188 VAH=39.908 VAL=34.82 bins=46 totalVol=278,721,894"
+2024-04-29T09:30:00.000-04:00,"VP ADAPTIVE: nBins=46 (trLen=42, userMax=30), rangeSize=8.07, binSize=0.175"
+2024-04-29T09:30:00.000-04:00,"VP FULL: VPOC=37.188 VAH=39.908 VAL=34.82 bins=46 totalVol=278,235,136"
+2024-04-30T09:30:00.000-04:00,"VP ADAPTIVE: nBins=46 (trLen=42, userMax=30), rangeSize=8.07, binSize=0.175"
+2024-04-30T09:30:00.000-04:00,"VP FULL: VPOC=37.188 VAH=39.732 VAL=34.82 bins=46 totalVol=274,016,880"
+2024-05-01T09:30:00.000-04:00,"VP ADAPTIVE: nBins=52 (trLen=50, userMax=30), rangeSize=9.35, binSize=0.18"
+2024-05-01T09:30:00.000-04:00,"VP FULL: VPOC=37.036 VAH=40.543 VAL=33.71 bins=52 totalVol=340,467,109"
+2024-06-07T09:30:00.000-04:00,"TR DETECTED: Support=30.56, Resistance=36.12, Len=20, SlopeUp=true"
+2024-06-07T09:30:00.000-04:00,"VP ADAPTIVE: nBins=31 (trLen=20, userMax=30), rangeSize=5.56, binSize=0.179"
+2024-06-07T09:30:00.000-04:00,"VP FULL: VPOC=31.546 VAH=33.25 VAL=30.56 bins=31 totalVol=154,935,795"
+2024-06-07T09:30:00.000-04:00,"VPOC SHIFT: Prior=37.036, will compare when VP recalculates"
+2024-06-12T09:30:00.000-04:00,"VP ADAPTIVE: nBins=29 (trLen=20, userMax=30), rangeSize=5.055, binSize=0.174"
+2024-06-12T09:30:00.000-04:00,"VP FULL: VPOC=32.334 VAH=34.339 VAL=31.55 bins=29 totalVol=123,746,955"
+2024-06-13T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=20, userMax=30), rangeSize=5.71, binSize=0.178"
+2024-06-13T09:30:00.000-04:00,"VP FULL: VPOC=32.75 VAH=34.623 VAL=31.59 bins=32 totalVol=121,388,523"
+2024-06-26T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=30, userMax=30), rangeSize=6.5, binSize=0.176"
+2024-06-26T09:30:00.000-04:00,"VP FULL: VPOC=32.323 VAH=35.573 VAL=30.83 bins=37 totalVol=190,346,616"
+2024-06-27T09:30:00.000-04:00,"VP ADAPTIVE: nBins=36 (trLen=30, userMax=30), rangeSize=6.24, binSize=0.173"
+2024-06-27T09:30:00.000-04:00,"VP FULL: VPOC=32.33 VAH=35.71 VAL=31.55 bins=36 totalVol=184,738,510"
+2024-07-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=24 (trLen=20, userMax=30), rangeSize=4.06, binSize=0.169"
+2024-07-03T09:30:00.000-04:00,"VP FULL: VPOC=35.679 VAH=36.44 VAL=34.41 bins=24 totalVol=108,615,390"
+2024-07-05T09:30:00.000-04:00,"VP ADAPTIVE: nBins=25 (trLen=20, userMax=30), rangeSize=4.29, binSize=0.172"
+2024-07-05T09:30:00.000-04:00,"VP FULL: VPOC=35.697 VAH=36.469 VAL=34.41 bins=25 totalVol=107,609,415"
+2024-07-08T09:30:00.000-04:00,"VP ADAPTIVE: nBins=31 (trLen=20, userMax=30), rangeSize=5.51, binSize=0.178"
+2024-07-08T09:30:00.000-04:00,"VP FULL: VPOC=36.276 VAH=36.898 VAL=34.41 bins=31 totalVol=111,779,783"
+2024-07-09T09:30:00.000-04:00,"VP ADAPTIVE: nBins=31 (trLen=20, userMax=30), rangeSize=5.58, binSize=0.18"
+2024-07-09T09:30:00.000-04:00,"VP FULL: VPOC=36.3 VAH=37.29 VAL=34.41 bins=31 totalVol=111,059,377"
+2024-07-12T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-12T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=35.631 bins=32 totalVol=114,364,140"
+2024-07-15T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-15T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=35.631 bins=32 totalVol=110,538,044"
+2024-07-16T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-16T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=35.631 bins=32 totalVol=105,813,038"
+2024-07-17T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-17T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=35.631 bins=32 totalVol=99,487,678"
+2024-07-18T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-18T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=35.805 bins=32 totalVol=93,774,070"
+2024-07-19T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-19T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=35.805 bins=32 totalVol=86,915,930"
+2024-07-22T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-22T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=35.805 bins=32 totalVol=81,942,554"
+2024-07-23T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-23T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=35.805 bins=32 totalVol=77,550,084"
+2024-07-24T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-24T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=36.154 bins=32 totalVol=69,537,780"
+2024-07-25T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-25T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=36.677 bins=32 totalVol=63,910,574"
+2024-07-26T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-26T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=37.026 bins=32 totalVol=58,341,125"
+2024-07-29T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-29T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=37.2 bins=32 totalVol=50,003,376"
+2024-07-30T09:30:00.000-04:00,"VP ADAPTIVE: nBins=32 (trLen=22, userMax=30), rangeSize=5.58, binSize=0.174"
+2024-07-30T09:30:00.000-04:00,"VP FULL: VPOC=39.205 VAH=39.293 VAL=37.2 bins=32 totalVol=44,821,483"
+2024-08-01T09:30:00.000-04:00,"TR DETECTED: Support=37.34, Resistance=42.04, Len=20, SlopeUp=true"
+2024-08-01T09:30:00.000-04:00,"VP ADAPTIVE: nBins=27 (trLen=20, userMax=30), rangeSize=4.7, binSize=0.174"
+2024-08-01T09:30:00.000-04:00,"VP FULL: VPOC=39.168 VAH=40.647 VAL=37.34 bins=27 totalVol=110,834,699"
+2024-08-01T09:30:00.000-04:00,"VPOC SHIFT: Prior=39.205, will compare when VP recalculates"
+2024-08-02T09:30:00.000-04:00,"VP ADAPTIVE: nBins=27 (trLen=20, userMax=30), rangeSize=4.735, binSize=0.175"
+2024-08-02T09:30:00.000-04:00,"VP FULL: VPOC=39.146 VAH=40.637 VAL=37.305 bins=27 totalVol=113,787,264"
+2024-09-12T09:30:00.000-04:00,"TR DETECTED: Support=39.22, Resistance=46, Len=20, SlopeUp=true"
+2024-09-12T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=20, userMax=30), rangeSize=6.78, binSize=0.183"
+2024-09-12T09:30:00.000-04:00,"VP FULL: VPOC=44.076 VAH=44.534 VAL=41.969 bins=37 totalVol=121,000,289"
+2024-09-12T09:30:00.000-04:00,"VPOC SHIFT: Prior=39.146, will compare when VP recalculates"
+2024-09-13T09:30:00.000-04:00,"VP ADAPTIVE: nBins=36 (trLen=20, userMax=30), rangeSize=6.4, binSize=0.178"
+2024-09-13T09:30:00.000-04:00,"VP FULL: VPOC=44.076 VAH=44.52 VAL=42.031 bins=36 totalVol=120,628,962"
+2024-09-16T09:30:00.000-04:00,"VP ADAPTIVE: nBins=42 (trLen=20, userMax=30), rangeSize=7.775, binSize=0.185"
+2024-09-16T09:30:00.000-04:00,"VP FULL: VPOC=44.07 VAH=44.533 VAL=41.941 bins=42 totalVol=122,719,002"
+2024-09-25T09:30:00.000-04:00,"VP ADAPTIVE: nBins=34 (trLen=20, userMax=30), rangeSize=6.105, binSize=0.18"
+2024-09-25T09:30:00.000-04:00,"VP FULL: VPOC=46.186 VAH=46.275 VAL=43.941 bins=34 totalVol=120,587,669"
+2024-10-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=37 (trLen=30, userMax=30), rangeSize=6.62, binSize=0.179"
+2024-10-03T09:30:00.000-04:00,"VP FULL: VPOC=46.194 VAH=46.283 VAL=43.599 bins=37 totalVol=182,789,304"
+2024-10-04T09:30:00.000-04:00,"VP ADAPTIVE: nBins=42 (trLen=30, userMax=30), rangeSize=7.55, binSize=0.18"
+2024-10-04T09:30:00.000-04:00,"VP FULL: VPOC=46.183 VAH=46.273 VAL=43.576 bins=42 totalVol=182,033,743"
+2024-10-25T09:30:00.000-04:00,"TR DETECTED: Support=37.5, Resistance=44.64, Len=20, SlopeUp=false"
+2024-10-25T09:30:00.000-04:00,"VP ADAPTIVE: nBins=39 (trLen=20, userMax=30), rangeSize=7.14, binSize=0.183"
+2024-10-25T09:30:00.000-04:00,"VP FULL: VPOC=39.056 VAH=41.711 VAL=37.5 bins=39 totalVol=149,184,125"
+2024-10-25T09:30:00.000-04:00,"VPOC SHIFT: Prior=46.183, will compare when VP recalculates"
+2024-11-29T09:30:00.000-05:00,"TR DETECTED: Support=47.95, Resistance=55.1, Len=20, SlopeUp=false"
+2024-11-29T09:30:00.000-05:00,"VP ADAPTIVE: nBins=39 (trLen=20, userMax=30), rangeSize=7.15, binSize=0.183"
+2024-11-29T09:30:00.000-05:00,"VP FULL: VPOC=51.525 VAH=51.983 VAL=47.95 bins=39 totalVol=199,732,001"
+2024-11-29T09:30:00.000-05:00,"VPOC SHIFT: Prior=39.056, will compare when VP recalculates"
+2024-12-05T09:30:00.000-05:00,"VP ADAPTIVE: nBins=60 (trLen=20, userMax=30), rangeSize=11.19, binSize=0.186"
+2024-12-05T09:30:00.000-05:00,"VP FULL: VPOC=52.706 VAH=53.918 VAL=47.95 bins=60 totalVol=189,841,912"
+2024-12-06T09:30:00.000-05:00,"VP ADAPTIVE: nBins=63 (trLen=20, userMax=30), rangeSize=11.85, binSize=0.188"
+2024-12-06T09:30:00.000-05:00,"VP FULL: VPOC=56.885 VAH=56.979 VAL=50.583 bins=63 totalVol=190,831,461"
+2024-12-11T09:30:00.000-05:00,"VP ADAPTIVE: nBins=69 (trLen=20, userMax=30), rangeSize=13.06, binSize=0.189"
+2024-12-11T09:30:00.000-05:00,"VP FULL: VPOC=56.941 VAH=57.035 VAL=49.464 bins=69 totalVol=186,909,939"
+2024-12-12T09:30:00.000-05:00,"VP ADAPTIVE: nBins=69 (trLen=20, userMax=30), rangeSize=13.1, binSize=0.19"
+2024-12-12T09:30:00.000-05:00,"VP FULL: VPOC=56.968 VAH=57.063 VAL=49.469 bins=69 totalVol=185,068,452"
+2024-12-16T09:30:00.000-05:00,"VP ADAPTIVE: nBins=73 (trLen=30, userMax=30), rangeSize=13.82, binSize=0.189"
+2024-12-16T09:30:00.000-05:00,"VP FULL: VPOC=51.452 VAH=54.765 VAL=47.95 bins=73 totalVol=282,688,971"
+2025-01-06T09:30:00.000-05:00,"VP ADAPTIVE: nBins=38 (trLen=20, userMax=30), rangeSize=6.809, binSize=0.179"
+2025-01-06T09:30:00.000-05:00,"VP FULL: VPOC=58.746 VAH=59.911 VAL=55.61 bins=38 totalVol=117,760,888"
+2025-01-07T09:30:00.000-05:00,"VP ADAPTIVE: nBins=38 (trLen=20, userMax=30), rangeSize=6.87, binSize=0.181"
+2025-01-07T09:30:00.000-05:00,"VP FULL: VPOC=59.859 VAH=60.13 VAL=57.961 bins=38 totalVol=114,577,536"
+2025-01-07T09:30:00.000-05:00,"SOS CONFIRMED: rally=25.765% low=49.68 high=62.48 bars=17 avgVol=6,957,205.588 adjMinRally=4.55"
+2025-01-07T09:30:00.000-05:00,SCORE_CORE: raw=140 capped=100 cap=100 | HL=25(val=7.822) VolDry=25(vol%=83.09 adj=91) Supply=0 Spread=10(atr%=119.343 adj=110.5) PB=15(pct=19.687)
+2025-01-07T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-01-07T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=5 VolCon=5 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-01-07T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=38
+2025-01-08T09:30:00.000-05:00,"VP ADAPTIVE: nBins=43 (trLen=20, userMax=30), rangeSize=7.93, binSize=0.184"
+2025-01-08T09:30:00.000-05:00,"VP FULL: VPOC=59.799 VAH=60.445 VAL=58.232 bins=43 totalVol=114,275,973"
+2025-01-08T09:30:00.000-05:00,SCORE_CORE: raw=115 capped=100 cap=100 | HL=25(val=7.745) VolDry=15(vol%=101.077 adj=91) Supply=-5 Spread=10(atr%=124.438 adj=110.5) PB=15(pct=19.687)
+2025-01-08T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-01-08T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=5 VolCon=5 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-01-08T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=43
+2025-01-08T09:30:00.000-05:00,LPS ENTRY: price=62.05 score=100 mode=Close Above SOS Midpoint spring=false(conf=0) closeStr=0.467 volOk=true bars=2 pullback=19.687%
+2025-01-14T09:30:00.000-05:00,SCORE_CORE: raw=116 capped=100 cap=100 | HL=25(val=10.207) VolDry=8(vol%=110.008 adj=91) Supply=-10 Spread=15(atr%=77.092 adj=110.5) PB=8(pct=8.984)
+2025-01-14T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-01-14T09:30:00.000-05:00,SCORE_BONUS: Power=15 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=5 VolCon=5 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-01-14T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=43
+2025-01-15T09:30:00.000-05:00,"VP ADAPTIVE: nBins=41 (trLen=20, userMax=30), rangeSize=7.41, binSize=0.181"
+2025-01-15T09:30:00.000-05:00,"VP FULL: VPOC=62.171 VAH=62.261 VAL=58.827 bins=41 totalVol=110,977,048"
+2025-01-15T09:30:00.000-05:00,SCORE_CORE: raw=88 capped=88 cap=100 | HL=25(val=7.559) VolDry=15(vol%=98.646 adj=91) Supply=-5 Spread=15(atr%=76.782 adj=110.5) PB=8(pct=8.984)
+2025-01-15T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-01-15T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=5 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-01-15T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=41
+2025-01-15T09:30:00.000-05:00,LPS ENTRY: price=63.74 score=88 mode=Close Above SOS Midpoint spring=false(conf=0) closeStr=0.579 volOk=true bars=2 pullback=8.984%
+2025-01-16T09:30:00.000-05:00,"VP ADAPTIVE: nBins=51 (trLen=20, userMax=30), rangeSize=9.49, binSize=0.186"
+2025-01-16T09:30:00.000-05:00,"VP FULL: VPOC=58.788 VAH=61.672 VAL=57.02 bins=51 totalVol=114,411,308"
+2025-01-21T09:30:00.000-05:00,"VP ADAPTIVE: nBins=65 (trLen=30, userMax=30), rangeSize=12.13, binSize=0.187"
+2025-01-21T09:30:00.000-05:00,"VP FULL: VPOC=58.742 VAH=61.262 VAL=54.73 bins=65 totalVol=201,126,996"
+2025-01-22T09:30:00.000-05:00,SCORE_CORE: raw=130 capped=100 cap=100 | HL=25(val=19.149) VolDry=25(vol%=80.497 adj=91) Supply=0 Spread=15(atr%=80.476 adj=110.5) PB=15(pct=12.891)
+2025-01-22T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-01-22T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=5 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-01-22T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=65
+2025-01-23T09:30:00.000-05:00,"VP ADAPTIVE: nBins=63 (trLen=30, userMax=30), rangeSize=11.71, binSize=0.186"
+2025-01-23T09:30:00.000-05:00,"VP FULL: VPOC=59.421 VAH=61.558 VAL=55.61 bins=63 totalVol=182,867,014"
+2025-01-23T09:30:00.000-05:00,SCORE_CORE: raw=115 capped=100 cap=100 | HL=25(val=15.266) VolDry=25(vol%=84.178 adj=91) Supply=0 Spread=10(atr%=114.497 adj=110.5) PB=15(pct=21.563)
+2025-01-23T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-01-23T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-01-23T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=63
+2025-01-23T09:30:00.000-05:00,LPS ENTRY: price=67.11 score=100 mode=Close Above SOS Midpoint spring=false(conf=0) closeStr=0.935 volOk=true bars=2 pullback=21.563%
+2025-01-24T09:30:00.000-05:00,"VP ADAPTIVE: nBins=63 (trLen=30, userMax=30), rangeSize=11.78, binSize=0.187"
+2025-01-24T09:30:00.000-05:00,"VP FULL: VPOC=59.857 VAH=62.194 VAL=55.65 bins=63 totalVol=177,932,506"
+2025-01-27T09:30:00.000-05:00,"VP ADAPTIVE: nBins=59 (trLen=30, userMax=30), rangeSize=10.844, binSize=0.184"
+2025-01-27T09:30:00.000-05:00,"VP FULL: VPOC=59.869 VAH=62.166 VAL=57.02 bins=59 totalVol=177,964,064"
+2025-01-28T09:30:00.000-05:00,"VP ADAPTIVE: nBins=65 (trLen=30, userMax=30), rangeSize=12.1, binSize=0.186"
+2025-01-28T09:30:00.000-05:00,"VP FULL: VPOC=59.905 VAH=63.722 VAL=57.02 bins=65 totalVol=170,519,038"
+2025-01-28T09:30:00.000-05:00,SCORE_CORE: raw=65 capped=60 cap=60 | HL=25(val=17.345) VolDry=25(vol%=80.091 adj=91) Supply=0 Spread=15(atr%=101.497 adj=110.5) PB=0(pct=-34.609)
+2025-01-28T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-01-28T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-01-28T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=65
+2025-01-29T09:30:00.000-05:00,"VP ADAPTIVE: nBins=73 (trLen=30, userMax=30), rangeSize=13.66, binSize=0.187"
+2025-01-29T09:30:00.000-05:00,"VP FULL: VPOC=58.798 VAH=65.441 VAL=57.02 bins=73 totalVol=170,499,661"
+2025-01-29T09:30:00.000-05:00,SCORE_CORE: raw=65 capped=60 cap=60 | HL=25(val=17.345) VolDry=25(vol%=86.566 adj=91) Supply=0 Spread=15(atr%=109.325 adj=110.5) PB=0(pct=-34.609)
+2025-01-29T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-01-29T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-01-29T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=73
+2025-01-29T09:30:00.000-05:00,LPS ENTRY: price=70.08 score=60 mode=Close Above SOS Midpoint spring=false(conf=0) closeStr=0.771 volOk=true bars=2 pullback=-34.609%
+2025-01-30T09:30:00.000-05:00,"VP ADAPTIVE: nBins=78 (trLen=30, userMax=30), rangeSize=14.745, binSize=0.189"
+2025-01-30T09:30:00.000-05:00,"VP FULL: VPOC=58.816 VAH=65.716 VAL=57.02 bins=78 totalVol=176,463,727"
+2025-01-31T09:30:00.000-05:00,"VP ADAPTIVE: nBins=79 (trLen=30, userMax=30), rangeSize=14.87, binSize=0.188"
+2025-01-31T09:30:00.000-05:00,"VP FULL: VPOC=58.808 VAH=66.055 VAL=57.02 bins=79 totalVol=180,797,478"
+2025-02-04T09:30:00.000-05:00,"VP ADAPTIVE: nBins=79 (trLen=31, userMax=30), rangeSize=14.87, binSize=0.188"
+2025-02-04T09:30:00.000-05:00,"VP FULL: VPOC=70.667 VAH=70.761 VAL=59.843 bins=79 totalVol=183,404,452"
+2025-02-04T09:30:00.000-05:00,SCORE_CORE: raw=63 capped=63 cap=100 | HL=25(val=25.061) VolDry=8(vol%=130.569 adj=91) Supply=-15 Spread=10(atr%=113.977 adj=110.5) PB=0(pct=3.047)
+2025-02-04T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-04T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-04T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=79
+2025-02-05T09:30:00.000-05:00,"VP ADAPTIVE: nBins=79 (trLen=31, userMax=30), rangeSize=14.87, binSize=0.188"
+2025-02-05T09:30:00.000-05:00,"VP FULL: VPOC=70.667 VAH=70.761 VAL=60.032 bins=79 totalVol=175,905,686"
+2025-02-05T09:30:00.000-05:00,SCORE_CORE: raw=73 capped=73 cap=100 | HL=25(val=25.061) VolDry=3(vol%=163.298 adj=91) Supply=-15 Spread=15(atr%=107.607 adj=110.5) PB=0(pct=3.047)
+2025-02-05T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-05T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-02-05T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=79
+2025-02-05T09:30:00.000-05:00,LPS ENTRY: price=75.47 score=73 mode=Close Above SOS Midpoint spring=false(conf=0) closeStr=0.881 volOk=true bars=2 pullback=3.047%
+2025-02-06T09:30:00.000-05:00,"VP ADAPTIVE: nBins=79 (trLen=31, userMax=30), rangeSize=14.87, binSize=0.188"
+2025-02-06T09:30:00.000-05:00,"VP FULL: VPOC=63.89 VAH=65.867 VAL=57.02 bins=79 totalVol=222,588,513"
+2025-02-06T09:30:00.000-05:00,SPRING: conf=0.817 [close=0.272 reclaim=0.103 vol=0.2 age=0.142 tests=0.1] pivot=63.88 pivotAge=8b
+2025-02-07T09:30:00.000-05:00,"VP ADAPTIVE: nBins=79 (trLen=31, userMax=30), rangeSize=14.87, binSize=0.188"
+2025-02-07T09:30:00.000-05:00,"VP FULL: VPOC=63.89 VAH=66.431 VAL=57.02 bins=79 totalVol=238,117,609"
+2025-02-07T09:30:00.000-05:00,SCORE_CORE: raw=35 capped=35 cap=100 | HL=25(val=12.829) VolDry=0(vol%=344.758 adj=91) Supply=-15 Spread=5(atr%=145.889 adj=110.5) PB=0(pct=-14.492)
+2025-02-07T09:30:00.000-05:00,SCORE_STRUCT: Effort=-10(abs=false sup=true) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-07T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-07T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=79
+2025-02-10T09:30:00.000-05:00,"VP ADAPTIVE: nBins=79 (trLen=31, userMax=30), rangeSize=14.87, binSize=0.188"
+2025-02-10T09:30:00.000-05:00,"VP FULL: VPOC=63.89 VAH=66.431 VAL=57.02 bins=79 totalVol=244,604,073"
+2025-02-10T09:30:00.000-05:00,SCORE_CORE: raw=60 capped=60 cap=100 | HL=25(val=11.592) VolDry=0(vol%=252.002 adj=91) Supply=-15 Spread=15(atr%=110.249 adj=110.5) PB=0(pct=-8.984)
+2025-02-10T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-10T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-02-10T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=79
+2025-02-10T09:30:00.000-05:00,LPS ENTRY: price=65.05 score=60 mode=Close Above SOS Midpoint spring=false(conf=0) closeStr=0.602 volOk=true bars=2 pullback=-8.984%
+2025-02-11T09:30:00.000-05:00,"VP ADAPTIVE: nBins=99 (trLen=40, userMax=30), rangeSize=18.72, binSize=0.189"
+2025-02-11T09:30:00.000-05:00,"VP FULL: VPOC=63.922 VAH=66.285 VAL=57.02 bins=99 totalVol=326,487,720"
+2025-02-14T09:30:00.000-05:00,SCORE_CORE: raw=55 capped=55 cap=60 | HL=25(val=14.434) VolDry=15(vol%=91.367 adj=91) Supply=0 Spread=15(atr%=64.011 adj=110.5) PB=0(pct=-21.641)
+2025-02-14T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-14T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-14T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-02-18T09:30:00.000-05:00,SCORE_CORE: raw=50 capped=50 cap=60 | HL=25(val=13.416) VolDry=15(vol%=97.981 adj=91) Supply=-5 Spread=15(atr%=74.371 adj=110.5) PB=0(pct=-17.109)
+2025-02-18T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-18T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-18T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-02-19T09:30:00.000-05:00,SCORE_CORE: raw=50 capped=50 cap=60 | HL=25(val=11.592) VolDry=15(vol%=91.82 adj=91) Supply=0 Spread=15(atr%=85.398 adj=110.5) PB=0(pct=-8.984)
+2025-02-19T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-19T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-19T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-02-20T09:30:00.000-05:00,SCORE_CORE: raw=48 capped=48 cap=60 | HL=25(val=6.559) VolDry=8(vol%=115.629 adj=91) Supply=-10 Spread=15(atr%=87.897 adj=110.5) PB=15(pct=13.437)
+2025-02-20T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-20T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-20T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-02-21T09:30:00.000-05:00,SCORE_CORE: raw=48 capped=48 cap=60 | HL=25(val=6.559) VolDry=8(vol%=112.082 adj=91) Supply=-10 Spread=15(atr%=80.65 adj=110.5) PB=15(pct=13.437)
+2025-02-21T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-21T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-21T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-02-24T09:30:00.000-05:00,SPRING: conf=0.634 [close=0.181 reclaim=0.137 vol=0.076 age=0.14 tests=0.1] pivot=60.01 pivotAge=11b
+2025-02-24T09:30:00.000-05:00,SCORE_CORE: raw=54 capped=54 cap=60 | HL=25(val=5.051) VolDry=8(vol%=114.346 adj=91) Supply=-10 Spread=15(atr%=79.041 adj=110.5) PB=15(pct=20.156)
+2025-02-24T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.634) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-24T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-24T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-02-25T09:30:00.000-05:00,SCORE_CORE: raw=48 capped=48 cap=60 | HL=25(val=2.613) VolDry=8(vol%=113.849 adj=91) Supply=-10 Spread=15(atr%=78.714 adj=110.5) PB=15(pct=31.016)
+2025-02-25T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.634) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-25T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-25T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-02-26T09:30:00.000-05:00,SCORE_CORE: raw=48 capped=48 cap=60 | HL=25(val=2.613) VolDry=8(vol%=117.12 adj=91) Supply=-10 Spread=15(atr%=79.35 adj=110.5) PB=15(pct=31.016)
+2025-02-26T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.634) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-26T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-26T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-02-27T09:30:00.000-05:00,SCORE_CORE: raw=48 capped=48 cap=60 | HL=25(val=2.613) VolDry=8(vol%=126.684 adj=91) Supply=-10 Spread=15(atr%=80.135 adj=110.5) PB=15(pct=31.016)
+2025-02-27T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.634) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-27T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-27T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-02-28T09:30:00.000-05:00,SCORE_CORE: raw=43 capped=43 cap=60 | HL=25(val=2.613) VolDry=8(vol%=133.347 adj=91) Supply=-15 Spread=15(atr%=79.123 adj=110.5) PB=15(pct=31.016)
+2025-02-28T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.634) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-02-28T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-02-28T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-03-03T09:30:00.000-05:00,SCORE_CORE: raw=43 capped=43 cap=60 | HL=25(val=2.613) VolDry=8(vol%=132.346 adj=91) Supply=-15 Spread=15(atr%=81.54 adj=110.5) PB=15(pct=31.016)
+2025-03-03T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.634) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-03T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-03-03T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-03-04T09:30:00.000-05:00,SCORE_CORE: raw=53 capped=53 cap=60 | HL=25(val=2.613) VolDry=8(vol%=132.462 adj=91) Supply=-15 Spread=15(atr%=84.495 adj=110.5) PB=15(pct=31.016)
+2025-03-04T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.634) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-04T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-03-04T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-03-05T09:30:00.000-05:00,SCORE_CORE: raw=68 capped=60 cap=60 | HL=25(val=2.613) VolDry=8(vol%=126.333 adj=91) Supply=-10 Spread=15(atr%=85.319 adj=110.5) PB=15(pct=31.016)
+2025-03-05T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.634) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-05T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-03-05T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-03-06T09:30:00.000-05:00,SPRING: conf=0.313 [close=0.015 reclaim=0.004 vol=0.051 age=0.143 tests=0.1] pivot=58.51 pivotAge=7b
+2025-03-06T09:30:00.000-05:00,SCORE_CORE: raw=63 capped=60 cap=60 | HL=25(val=2.368) VolDry=8(vol%=123.409 adj=91) Supply=-10 Spread=15(atr%=84.848 adj=110.5) PB=15(pct=32.109)
+2025-03-06T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.634) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-06T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=5 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=-10 FinAuc=5 OEL=0 Unfin=0
+2025-03-06T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=-30 Failed=0 | regime=1.3 vpBins=99
+2025-03-07T09:30:00.000-05:00,"VP ADAPTIVE: nBins=81 (trLen=20, userMax=30), rangeSize=15.57, binSize=0.192"
+2025-03-07T09:30:00.000-05:00,"VP FULL: VPOC=66.747 VAH=66.843 VAL=61.461 bins=81 totalVol=190,105,375"
+2025-03-07T09:30:00.000-05:00,SPRING: conf=0.53 [close=0.187 reclaim=0.007 vol=0.12 age=0.117 tests=0.1] pivot=57.02 pivotAge=43b
+2025-03-07T09:30:00.000-05:00,SCORE_CORE: raw=69 capped=69 cap=100 | HL=5(val=0) VolDry=8(vol%=126.093 adj=91) Supply=-10 Spread=15(atr%=86.286 adj=110.5) PB=8(pct=69.531)
+2025-03-07T09:30:00.000-05:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.634) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-07T09:30:00.000-05:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=5 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-07T09:30:00.000-05:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=81
+2025-03-07T09:30:00.000-05:00,LPS ENTRY: price=57.17 score=69 mode=Close Above SOS Midpoint spring=true(conf=0.634) closeStr=0.625 volOk=true bars=15 pullback=69.531%
+2025-03-10T09:30:00.000-04:00,"VP ADAPTIVE: nBins=81 (trLen=20, userMax=30), rangeSize=15.57, binSize=0.192"
+2025-03-10T09:30:00.000-04:00,"VP FULL: VPOC=65.209 VAH=65.306 VAL=59.923 bins=81 totalVol=178,948,543"
+2025-03-11T09:30:00.000-04:00,"VP ADAPTIVE: nBins=78 (trLen=20, userMax=30), rangeSize=14.88, binSize=0.191"
+2025-03-11T09:30:00.000-04:00,"VP FULL: VPOC=65.177 VAH=65.272 VAL=59.358 bins=78 totalVol=184,497,144"
+2025-03-11T09:30:00.000-04:00,SCORE_CORE: raw=35 capped=35 cap=100 | HL=15(val=0.497) VolDry=0(vol%=239 adj=91) Supply=-15 Spread=15(atr%=83.496 adj=110.5) PB=0(pct=77.5)
+2025-03-11T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-11T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-11T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-12T09:30:00.000-04:00,SCORE_CORE: raw=35 capped=35 cap=100 | HL=15(val=0.497) VolDry=0(vol%=174.351 adj=91) Supply=-15 Spread=15(atr%=73.549 adj=110.5) PB=0(pct=77.5)
+2025-03-12T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-12T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-12T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-13T09:30:00.000-04:00,SCORE_CORE: raw=35 capped=35 cap=100 | HL=15(val=0.497) VolDry=0(vol%=180.551 adj=91) Supply=-15 Spread=15(atr%=81.999 adj=110.5) PB=0(pct=77.5)
+2025-03-13T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-13T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-13T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-14T09:30:00.000-04:00,SCORE_CORE: raw=35 capped=35 cap=100 | HL=15(val=0.497) VolDry=0(vol%=177.311 adj=91) Supply=-15 Spread=15(atr%=84.322 adj=110.5) PB=0(pct=77.5)
+2025-03-14T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-14T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-14T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-17T09:30:00.000-04:00,SCORE_CORE: raw=53 capped=53 cap=100 | HL=15(val=0.497) VolDry=3(vol%=163.246 adj=91) Supply=-15 Spread=15(atr%=80.832 adj=110.5) PB=0(pct=77.5)
+2025-03-17T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-17T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-17T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-18T09:30:00.000-04:00,SCORE_CORE: raw=53 capped=53 cap=100 | HL=15(val=0.497) VolDry=3(vol%=147.619 adj=91) Supply=-15 Spread=15(atr%=80.445 adj=110.5) PB=0(pct=77.5)
+2025-03-18T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-18T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-18T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-19T09:30:00.000-04:00,SCORE_CORE: raw=53 capped=53 cap=100 | HL=15(val=0.497) VolDry=3(vol%=141.233 adj=91) Supply=-15 Spread=15(atr%=82.863 adj=110.5) PB=0(pct=77.5)
+2025-03-19T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-19T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-19T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-20T09:30:00.000-04:00,SCORE_CORE: raw=58 capped=58 cap=100 | HL=15(val=0.497) VolDry=8(vol%=133.441 adj=91) Supply=-15 Spread=15(atr%=83.035 adj=110.5) PB=0(pct=77.5)
+2025-03-20T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-20T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-20T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-21T09:30:00.000-04:00,SCORE_CORE: raw=48 capped=48 cap=100 | HL=15(val=0.497) VolDry=3(vol%=139.969 adj=91) Supply=-15 Spread=15(atr%=87.028 adj=110.5) PB=0(pct=77.5)
+2025-03-21T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-21T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=0 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-21T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-24T09:30:00.000-04:00,SCORE_CORE: raw=58 capped=58 cap=100 | HL=15(val=0.497) VolDry=3(vol%=137.329 adj=91) Supply=-15 Spread=15(atr%=86.603 adj=110.5) PB=0(pct=77.5)
+2025-03-24T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-24T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-24T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-25T09:30:00.000-04:00,SCORE_CORE: raw=73 capped=73 cap=100 | HL=15(val=0.497) VolDry=8(vol%=131.042 adj=91) Supply=-15 Spread=15(atr%=86.861 adj=110.5) PB=0(pct=77.5)
+2025-03-25T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-25T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-25T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-26T09:30:00.000-04:00,SCORE_CORE: raw=78 capped=78 cap=100 | HL=15(val=0.497) VolDry=8(vol%=124.502 adj=91) Supply=-10 Spread=15(atr%=87.365 adj=110.5) PB=0(pct=77.5)
+2025-03-26T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-26T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-26T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-27T09:30:00.000-04:00,SCORE_CORE: raw=83 capped=83 cap=100 | HL=15(val=0.497) VolDry=8(vol%=118.702 adj=91) Supply=-10 Spread=15(atr%=87.616 adj=110.5) PB=0(pct=77.5)
+2025-03-27T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-27T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=5 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-27T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-28T09:30:00.000-04:00,SCORE_CORE: raw=83 capped=83 cap=100 | HL=15(val=0.497) VolDry=8(vol%=116.944 adj=91) Supply=-10 Spread=15(atr%=88.4 adj=110.5) PB=0(pct=77.5)
+2025-03-28T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-28T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=5 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-28T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-03-31T09:30:00.000-04:00,SCORE_CORE: raw=83 capped=83 cap=100 | HL=15(val=0.497) VolDry=8(vol%=114.082 adj=91) Supply=-10 Spread=15(atr%=88.087 adj=110.5) PB=0(pct=77.5)
+2025-03-31T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-03-31T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=5 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-03-31T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-04-01T09:30:00.000-04:00,SCORE_CORE: raw=78 capped=78 cap=100 | HL=15(val=0.497) VolDry=8(vol%=119.454 adj=91) Supply=-10 Spread=15(atr%=88.79 adj=110.5) PB=0(pct=77.5)
+2025-04-01T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-04-01T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=5 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-04-01T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-04-01T09:30:00.000-04:00,LPS ENTRY: price=60.99 score=78 mode=Close Above SOS Midpoint spring=false(conf=0) closeStr=0.691 volOk=true bars=16 pullback=77.5%
+2025-04-02T09:30:00.000-04:00,SCORE_CORE: raw=83 capped=83 cap=100 | HL=25(val=15.354) VolDry=3(vol%=137.397 adj=91) Supply=-15 Spread=10(atr%=119.108 adj=110.5) PB=15(pct=14.844)
+2025-04-02T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-04-02T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=5 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-04-02T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-04-03T09:30:00.000-04:00,SCORE_CORE: raw=88 capped=88 cap=100 | HL=25(val=9.924) VolDry=8(vol%=115.84 adj=91) Supply=-10 Spread=15(atr%=91.993 adj=110.5) PB=15(pct=37.031)
+2025-04-03T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-04-03T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=5 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-04-03T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=78
+2025-04-04T09:30:00.000-04:00,"VP ADAPTIVE: nBins=79 (trLen=37, userMax=30), rangeSize=14.88, binSize=0.188"
+2025-04-04T09:30:00.000-04:00,"VP FULL: VPOC=53.901 VAH=61.718 VAL=52.3 bins=79 totalVol=318,591,715"
+2025-04-04T09:30:00.000-04:00,SPRING: conf=0.484 [close=0.097 reclaim=0.032 vol=0.122 age=0.133 tests=0.1] pivot=52.3 pivotAge=19b
+2025-04-04T09:30:00.000-04:00,SCORE_CORE: raw=44 capped=44 cap=100 | HL=0(val=-1.969) VolDry=8(vol%=127.661 adj=91) Supply=-10 Spread=15(atr%=109.37 adj=110.5) PB=0(pct=85.625)
+2025-04-04T09:30:00.000-04:00,SCORE_STRUCT: Effort=0(abs=false sup=false) Events=0 Ghost=0 Spring=0(conf=0.484) SOT=0 HeldMid=0 Slope=0 VP=0 VPOCmig=0 VAprog=0
+2025-04-04T09:30:00.000-04:00,SCORE_BONUS: Power=0 AccBias=0 RSI=5 SFlip=0 HTF=0 RS=0 Ctrl=0 VolDecl=0 VolCon=0 STup=0 SOSbar=0 PhB=0 PShape=5 bShape=0 FinAuc=5 OEL=0 Unfin=0
+2025-04-04T09:30:00.000-04:00,SCORE_PENALTY: Climax=0 Stall=0 Failed=0 | regime=1.3 vpBins=79
+2025-04-07T09:30:00.000-04:00,"VP ADAPTIVE: nBins=79 (trLen=37, userMax=30), rangeSize=14.88, binSize=0.188"
+2025-04-07T09:30:00.000-04:00,"VP FULL: VPOC=53.901 VAH=61.718 VAL=52.3 bins=79 totalVol=319,483,635"
+2025-04-08T09:30:00.000-04:00,"VP ADAPTIVE: nBins=90 (trLen=40, userMax=30), rangeSize=17.08, binSize=0.19"
+2025-04-08T09:30:00.000-04:00,"VP FULL: VPOC=61.582 VAH=61.676 VAL=52.757 bins=90 totalVol=340,491,063"
+2025-05-20T09:30:00.000-04:00,"TR DETECTED: Support=62.65, Resistance=82.02, Len=20, SlopeUp=true"
+2025-05-20T09:30:00.000-04:00,"VP ADAPTIVE: nBins=100 (trLen=20, userMax=30), rangeSize=19.37, binSize=0.194"
+2025-05-20T09:30:00.000-04:00,"VP FULL: VPOC=69.139 VAH=75.434 VAL=62.65 bins=100 totalVol=189,040,909"
+2025-05-20T09:30:00.000-04:00,"VPOC SHIFT: Prior=61.582, will compare when VP recalculates"
+2025-05-21T09:30:00.000-04:00,"VP ADAPTIVE: nBins=105 (trLen=20, userMax=30), rangeSize=20.25, binSize=0.193"
+2025-05-21T09:30:00.000-04:00,"VP FULL: VPOC=72.722 VAH=75.326 VAL=62.79 bins=105 totalVol=188,633,766"
+2025-05-27T09:30:00.000-04:00,"VP ADAPTIVE: nBins=105 (trLen=22, userMax=30), rangeSize=20.25, binSize=0.193"
+2025-05-27T09:30:00.000-04:00,"VP FULL: VPOC=72.722 VAH=78.411 VAL=62.79 bins=105 totalVol=192,470,555"
+2025-05-28T09:30:00.000-04:00,"VP ADAPTIVE: nBins=105 (trLen=22, userMax=30), rangeSize=20.25, binSize=0.193"
+2025-05-28T09:30:00.000-04:00,"VP FULL: VPOC=72.722 VAH=78.411 VAL=62.79 bins=105 totalVol=188,028,991"
+2025-05-29T09:30:00.000-04:00,"VP ADAPTIVE: nBins=105 (trLen=22, userMax=30), rangeSize=20.25, binSize=0.193"
+2025-05-29T09:30:00.000-04:00,"VP FULL: VPOC=72.722 VAH=79.954 VAL=62.79 bins=105 totalVol=182,290,689"
+2025-05-30T09:30:00.000-04:00,"VP ADAPTIVE: nBins=97 (trLen=20, userMax=30), rangeSize=18.61, binSize=0.192"
+2025-05-30T09:30:00.000-04:00,"VP FULL: VPOC=72.675 VAH=81.404 VAL=68.55 bins=97 totalVol=174,554,299"
+2025-06-02T09:30:00.000-04:00,"VP ADAPTIVE: nBins=111 (trLen=20, userMax=30), rangeSize=21.45, binSize=0.193"
+2025-06-02T09:30:00.000-04:00,"VP FULL: VPOC=85.845 VAH=85.942 VAL=72.608 bins=111 totalVol=169,599,356"
+2025-06-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=113 (trLen=20, userMax=30), rangeSize=21.86, binSize=0.193"
+2025-06-03T09:30:00.000-04:00,"VP FULL: VPOC=85.864 VAH=85.961 VAL=72.612 bins=113 totalVol=163,734,655"
+2025-06-04T09:30:00.000-04:00,"VP ADAPTIVE: nBins=113 (trLen=20, userMax=30), rangeSize=21.86, binSize=0.193"
+2025-06-04T09:30:00.000-04:00,"VP FULL: VPOC=85.864 VAH=85.961 VAL=75.127 bins=113 totalVol=153,211,579"
+2025-06-05T09:30:00.000-04:00,"VP ADAPTIVE: nBins=113 (trLen=20, userMax=30), rangeSize=21.86, binSize=0.193"
+2025-06-05T09:30:00.000-04:00,"VP FULL: VPOC=85.864 VAH=85.961 VAL=75.127 bins=113 totalVol=147,795,353"
+2025-06-11T09:30:00.000-04:00,"TR DETECTED: Support=77.26, Resistance=96.45, Len=20, SlopeUp=true"
+2025-06-11T09:30:00.000-04:00,"VP ADAPTIVE: nBins=100 (trLen=20, userMax=30), rangeSize=19.19, binSize=0.192"
+2025-06-11T09:30:00.000-04:00,"VP FULL: VPOC=93.284 VAH=93.38 VAL=80.906 bins=100 totalVol=175,369,315"
+2025-06-11T09:30:00.000-04:00,"VPOC SHIFT: Prior=85.864, will compare when VP recalculates"
+2025-06-12T09:30:00.000-04:00,"VP ADAPTIVE: nBins=101 (trLen=20, userMax=30), rangeSize=19.49, binSize=0.193"
+2025-06-12T09:30:00.000-04:00,"VP FULL: VPOC=92.65 VAH=92.747 VAL=79.625 bins=101 totalVol=173,255,700"
+2025-06-16T09:30:00.000-04:00,"VP ADAPTIVE: nBins=114 (trLen=20, userMax=30), rangeSize=22.1, binSize=0.194"
+2025-06-16T09:30:00.000-04:00,"VP FULL: VPOC=93.296 VAH=93.393 VAL=80.211 bins=114 totalVol=171,367,349"
+2025-06-17T09:30:00.000-04:00,"VP ADAPTIVE: nBins=111 (trLen=20, userMax=30), rangeSize=21.39, binSize=0.193"
+2025-06-17T09:30:00.000-04:00,"VP FULL: VPOC=93.26 VAH=95.091 VAL=80.06 bins=111 totalVol=171,320,799"
+2025-06-18T09:30:00.000-04:00,"VP ADAPTIVE: nBins=118 (trLen=20, userMax=30), rangeSize=22.9, binSize=0.194"
+2025-06-18T09:30:00.000-04:00,"VP FULL: VPOC=92.647 VAH=95.461 VAL=80.13 bins=118 totalVol=170,707,949"
+2025-06-20T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=23.44, binSize=0.195"
+2025-06-20T09:30:00.000-04:00,"VP FULL: VPOC=102.3 VAH=102.398 VAL=88.529 bins=120 totalVol=174,124,793"
+2025-06-23T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.5, binSize=0.204"
+2025-06-23T09:30:00.000-04:00,"VP FULL: VPOC=93.299 VAH=95.851 VAL=80.13 bins=120 totalVol=173,937,757"
+2025-06-24T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.5, binSize=0.204"
+2025-06-24T09:30:00.000-04:00,"VP FULL: VPOC=93.299 VAH=96.463 VAL=80.13 bins=120 totalVol=174,875,875"
+2025-06-25T09:30:00.000-04:00,"VP ADAPTIVE: nBins=111 (trLen=20, userMax=30), rangeSize=21.557, binSize=0.194"
+2025-06-25T09:30:00.000-04:00,"VP FULL: VPOC=92.774 VAH=99.474 VAL=83.743 bins=111 totalVol=173,392,028"
+2025-06-26T09:30:00.000-04:00,"VP ADAPTIVE: nBins=114 (trLen=20, userMax=30), rangeSize=22.057, binSize=0.193"
+2025-06-26T09:30:00.000-04:00,"VP FULL: VPOC=92.74 VAH=99.415 VAL=83.743 bins=114 totalVol=174,406,559"
+2025-06-27T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=30, userMax=30), rangeSize=27.21, binSize=0.227"
+2025-06-27T09:30:00.000-04:00,"VP FULL: VPOC=95.553 VAH=96.573 VAL=78.66 bins=120 totalVol=254,664,594"
+2025-06-30T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=30, userMax=30), rangeSize=27.51, binSize=0.229"
+2025-06-30T09:30:00.000-04:00,"VP FULL: VPOC=104.68 VAH=104.794 VAL=85.767 bins=120 totalVol=252,473,027"
+2025-07-07T09:30:00.000-04:00,"VP ADAPTIVE: nBins=85 (trLen=20, userMax=30), rangeSize=16.35, binSize=0.192"
+2025-07-07T09:30:00.000-04:00,"VP FULL: VPOC=102.326 VAH=102.999 VAL=91.65 bins=85 totalVol=169,579,643"
+2025-07-11T09:30:00.000-04:00,"VP ADAPTIVE: nBins=75 (trLen=20, userMax=30), rangeSize=14.37, binSize=0.192"
+2025-07-11T09:30:00.000-04:00,"VP FULL: VPOC=105.13 VAH=105.226 VAL=101.777 bins=75 totalVol=151,298,783"
+2025-07-14T09:30:00.000-04:00,"VP ADAPTIVE: nBins=95 (trLen=20, userMax=30), rangeSize=18.23, binSize=0.192"
+2025-07-14T09:30:00.000-04:00,"VP FULL: VPOC=104.188 VAH=104.86 VAL=93.73 bins=95 totalVol=150,656,707"
+2025-07-15T09:30:00.000-04:00,"VP ADAPTIVE: nBins=79 (trLen=20, userMax=30), rangeSize=15.05, binSize=0.191"
+2025-07-15T09:30:00.000-04:00,"VP FULL: VPOC=102.306 VAH=105.069 VAL=98.02 bins=79 totalVol=149,546,472"
+2025-07-16T09:30:00.000-04:00,"VP ADAPTIVE: nBins=104 (trLen=20, userMax=30), rangeSize=20.16, binSize=0.194"
+2025-07-16T09:30:00.000-04:00,"VP FULL: VPOC=116.186 VAH=116.283 VAL=102.908 bins=104 totalVol=155,505,645"
+2025-07-17T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=23.33, binSize=0.194"
+2025-07-17T09:30:00.000-04:00,"VP FULL: VPOC=116.234 VAH=116.331 VAL=102.527 bins=120 totalVol=157,931,903"
+2025-07-18T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.6, binSize=0.205"
+2025-07-18T09:30:00.000-04:00,"VP FULL: VPOC=116.093 VAH=116.195 VAL=102.665 bins=120 totalVol=157,613,365"
+2025-07-21T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.6, binSize=0.205"
+2025-07-21T09:30:00.000-04:00,"VP FULL: VPOC=116.093 VAH=116.195 VAL=102.87 bins=120 totalVol=147,654,704"
+2025-07-22T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.6, binSize=0.205"
+2025-07-22T09:30:00.000-04:00,"VP FULL: VPOC=116.093 VAH=116.195 VAL=102.665 bins=120 totalVol=151,541,702"
+2025-07-23T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.6, binSize=0.205"
+2025-07-23T09:30:00.000-04:00,"VP FULL: VPOC=116.093 VAH=116.195 VAL=101.845 bins=120 totalVol=159,115,240"
+2025-07-24T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.6, binSize=0.205"
+2025-07-24T09:30:00.000-04:00,"VP FULL: VPOC=116.093 VAH=116.81 VAL=100 bins=120 totalVol=159,099,966"
+2025-07-25T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.6, binSize=0.205"
+2025-07-25T09:30:00.000-04:00,"VP FULL: VPOC=116.093 VAH=116.81 VAL=100 bins=120 totalVol=157,954,611"
+2025-07-28T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.6, binSize=0.205"
+2025-07-28T09:30:00.000-04:00,"VP FULL: VPOC=116.093 VAH=119.065 VAL=100 bins=120 totalVol=152,020,056"
+2025-07-29T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.6, binSize=0.205"
+2025-07-29T09:30:00.000-04:00,"VP FULL: VPOC=116.093 VAH=119.27 VAL=100 bins=120 totalVol=149,669,994"
+2025-07-30T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.6, binSize=0.205"
+2025-07-30T09:30:00.000-04:00,"VP FULL: VPOC=116.093 VAH=119.885 VAL=100 bins=120 totalVol=151,288,253"
+2025-08-29T09:30:00.000-04:00,"TR DETECTED: Support=112, Resistance=135.08, Len=20, SlopeUp=false"
+2025-08-29T09:30:00.000-04:00,"VP ADAPTIVE: nBins=119 (trLen=20, userMax=30), rangeSize=23.08, binSize=0.194"
+2025-08-29T09:30:00.000-04:00,"VP FULL: VPOC=124.704 VAH=127.128 VAL=112 bins=119 totalVol=183,898,367"
+2025-08-29T09:30:00.000-04:00,"VPOC SHIFT: Prior=116.093, will compare when VP recalculates"
+2025-09-04T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=23.67, binSize=0.197"
+2025-09-04T09:30:00.000-04:00,"VP FULL: VPOC=124.723 VAH=126.794 VAL=112 bins=120 totalVol=181,736,562"
+2025-09-11T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-11T09:30:00.000-04:00,"VP FULL: VPOC=124.703 VAH=127.244 VAL=112 bins=120 totalVol=183,787,719"
+2025-09-15T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-15T09:30:00.000-04:00,"VP FULL: VPOC=124.703 VAH=128.666 VAL=112 bins=120 totalVol=182,536,145"
+2025-09-16T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-16T09:30:00.000-04:00,"VP FULL: VPOC=124.703 VAH=129.073 VAL=112 bins=120 totalVol=163,800,472"
+2025-09-17T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-17T09:30:00.000-04:00,"VP FULL: VPOC=124.703 VAH=131.309 VAL=112 bins=120 totalVol=157,112,345"
+2025-09-18T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-18T09:30:00.000-04:00,"VP FULL: VPOC=124.703 VAH=131.309 VAL=112 bins=120 totalVol=154,274,542"
+2025-09-19T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-19T09:30:00.000-04:00,"VP FULL: VPOC=124.703 VAH=132.325 VAL=112 bins=120 totalVol=156,858,760"
+2025-09-22T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-22T09:30:00.000-04:00,"VP FULL: VPOC=124.703 VAH=132.935 VAL=112 bins=120 totalVol=156,479,226"
+2025-09-23T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-23T09:30:00.000-04:00,"VP FULL: VPOC=124.703 VAH=134.154 VAL=112 bins=120 totalVol=154,019,110"
+2025-09-24T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-24T09:30:00.000-04:00,"VP FULL: VPOC=136.288 VAH=136.39 VAL=128.463 bins=120 totalVol=146,646,379"
+2025-09-25T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-25T09:30:00.000-04:00,"VP FULL: VPOC=136.288 VAH=136.39 VAL=128.87 bins=120 totalVol=137,490,517"
+2025-09-25T09:30:00.000-04:00,SPRING: conf=0.646 [close=0.208 reclaim=0.131 vol=0.064 age=0.144 tests=0.1] pivot=129.56 pivotAge=6b
+2025-09-26T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-26T09:30:00.000-04:00,"VP FULL: VPOC=136.288 VAH=136.39 VAL=131.105 bins=120 totalVol=134,836,567"
+2025-09-29T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-29T09:30:00.000-04:00,"VP FULL: VPOC=136.288 VAH=136.39 VAL=131.105 bins=120 totalVol=128,390,739"
+2025-09-30T09:30:00.000-04:00,"VP ADAPTIVE: nBins=120 (trLen=21, userMax=30), rangeSize=24.39, binSize=0.203"
+2025-09-30T09:30:00.000-04:00,"VP FULL: VPOC=136.288 VAH=136.39 VAL=131.105 bins=120 totalVol=122,943,331"
+2025-10-01T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=20, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-01T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=128.781 bins=89 totalVol=140,986,087"
+2025-10-03T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-03T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=128.781 bins=89 totalVol=139,514,155"
+2025-10-06T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-06T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=131.08 bins=89 totalVol=132,566,416"
+2025-10-07T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-07T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=131.847 bins=89 totalVol=124,228,418"
+2025-10-08T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-08T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=131.08 bins=89 totalVol=122,072,584"
+2025-10-09T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-09T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=126.291 bins=89 totalVol=122,270,234"
+2025-10-10T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-10T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=126.291 bins=89 totalVol=119,237,952"
+2025-10-13T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-13T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=126.291 bins=89 totalVol=118,461,734"
+2025-10-14T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-14T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=127.057 bins=89 totalVol=119,471,802"
+2025-10-15T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-15T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=127.057 bins=89 totalVol=123,251,742"
+2025-10-16T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-16T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=127.057 bins=89 totalVol=121,459,324"
+2025-10-17T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-17T09:30:00.000-04:00,"VP FULL: VPOC=136.349 VAH=136.444 VAL=127.057 bins=89 totalVol=120,180,961"
+2025-10-20T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-20T09:30:00.000-04:00,"VP FULL: VPOC=131.176 VAH=136.444 VAL=124.95 bins=89 totalVol=108,325,728"
+2025-10-21T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-21T09:30:00.000-04:00,"VP FULL: VPOC=131.176 VAH=136.061 VAL=124.95 bins=89 totalVol=106,418,889"
+2025-10-22T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-22T09:30:00.000-04:00,"VP FULL: VPOC=131.176 VAH=136.061 VAL=124.95 bins=89 totalVol=107,263,916"
+2025-10-23T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-23T09:30:00.000-04:00,"VP FULL: VPOC=131.176 VAH=136.061 VAL=124.95 bins=89 totalVol=104,713,717"
+2025-10-24T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-24T09:30:00.000-04:00,"VP FULL: VPOC=135.965 VAH=136.061 VAL=126.291 bins=89 totalVol=103,965,108"
+2025-10-27T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-27T09:30:00.000-04:00,"VP FULL: VPOC=135.965 VAH=136.061 VAL=126.291 bins=89 totalVol=106,320,503"
+2025-10-28T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-28T09:30:00.000-04:00,"VP FULL: VPOC=135.965 VAH=136.061 VAL=127.824 bins=89 totalVol=105,350,185"
+2025-10-29T09:30:00.000-04:00,"VP ADAPTIVE: nBins=89 (trLen=21, userMax=30), rangeSize=17.05, binSize=0.192"
+2025-10-29T09:30:00.000-04:00,"VP FULL: VPOC=135.965 VAH=136.061 VAL=128.781 bins=89 totalVol=104,102,296"
+2025-10-30T09:30:00.000-04:00,SPRING: conf=0.452 [close=0.024 reclaim=0.017 vol=0.2 age=0.111 tests=0.1] pivot=112 pivotAge=53b
+2025-11-13T09:30:00.000-05:00,SPRING: conf=0.471 [close=0.117 reclaim=0.066 vol=0.096 age=0.092 tests=0.1] pivot=100 pivotAge=94b
+2025-12-01T09:30:00.000-05:00,"TR DETECTED: Support=87.08, Resistance=113.6, Len=20, SlopeUp=false"
+2025-12-01T09:30:00.000-05:00,"VP ADAPTIVE: nBins=120 (trLen=20, userMax=30), rangeSize=26.52, binSize=0.221"
+2025-12-01T09:30:00.000-05:00,"VP FULL: VPOC=94.925 VAH=104.097 VAL=87.08 bins=120 totalVol=156,420,772"
+2025-12-01T09:30:00.000-05:00,"VPOC SHIFT: Prior=135.965, will compare when VP recalculates"
+2025-12-15T09:30:00.000-05:00,"VP ADAPTIVE: nBins=93 (trLen=20, userMax=30), rangeSize=17.865, binSize=0.192"
+2025-12-15T09:30:00.000-05:00,"VP FULL: VPOC=94.843 VAH=96.091 VAL=85.91 bins=93 totalVol=149,811,932"
+2025-12-16T09:30:00.000-05:00,SPRING: conf=0.589 [close=0.226 reclaim=0.053 vol=0.107 age=0.136 tests=0.067] pivot=87.08 pivotAge=15b
+2025-12-17T09:30:00.000-05:00,"VP ADAPTIVE: nBins=120 (trLen=30, userMax=30), rangeSize=23.025, binSize=0.192"
+2025-12-17T09:30:00.000-05:00,"VP FULL: VPOC=87.083 VAH=98.116 VAL=85.26 bins=120 totalVol=215,570,765"
+2025-12-18T09:30:00.000-05:00,"VP ADAPTIVE: nBins=86 (trLen=20, userMax=30), rangeSize=16.46, binSize=0.191"
+2025-12-18T09:30:00.000-05:00,"VP FULL: VPOC=87.061 VAH=94.812 VAL=83.52 bins=86 totalVol=154,462,316"
+2025-12-19T09:30:00.000-05:00,"VP ADAPTIVE: nBins=97 (trLen=20, userMax=30), rangeSize=18.735, binSize=0.193"
+2025-12-19T09:30:00.000-05:00,"VP FULL: VPOC=82.694 VAH=93.799 VAL=81.245 bins=97 totalVol=154,320,535"
+2025-12-23T09:30:00.000-05:00,"VP ADAPTIVE: nBins=102 (trLen=20, userMax=30), rangeSize=19.68, binSize=0.193"
+2025-12-23T09:30:00.000-05:00,"VP FULL: VPOC=82.712 VAH=93.806 VAL=80.3 bins=102 totalVol=144,689,132"
+2026-01-02T09:30:00.000-05:00,"VP ADAPTIVE: nBins=102 (trLen=25, userMax=30), rangeSize=19.68, binSize=0.193"
+2026-01-02T09:30:00.000-05:00,"VP FULL: VPOC=82.712 VAH=93.806 VAL=80.3 bins=102 totalVol=159,919,441"
+2026-01-02T09:30:00.000-05:00,SPRING: conf=0.616 [close=0.216 reclaim=0.055 vol=0.101 age=0.144 tests=0.1] pivot=80.3 pivotAge=6b
+2026-01-05T09:30:00.000-05:00,"VP ADAPTIVE: nBins=102 (trLen=25, userMax=30), rangeSize=19.68, binSize=0.193"
+2026-01-05T09:30:00.000-05:00,"VP FULL: VPOC=81.168 VAH=93.806 VAL=80.3 bins=102 totalVol=161,117,855"
+2026-01-13T09:30:00.000-05:00,"TR DETECTED: Support=71.78, Resistance=89.19, Len=20, SlopeUp=false"
+2026-01-13T09:30:00.000-05:00,"VP ADAPTIVE: nBins=91 (trLen=20, userMax=30), rangeSize=17.41, binSize=0.191"
+2026-01-13T09:30:00.000-05:00,"VP FULL: VPOC=81.059 VAH=82.111 VAL=71.78 bins=91 totalVol=185,356,170"
+2026-01-13T09:30:00.000-05:00,"VPOC SHIFT: Prior=81.168, will compare when VP recalculates"
+2026-01-16T09:30:00.000-05:00,"VP ADAPTIVE: nBins=100 (trLen=20, userMax=30), rangeSize=19.31, binSize=0.193"
+2026-01-16T09:30:00.000-05:00,"VP FULL: VPOC=80.952 VAH=82.787 VAL=71.78 bins=100 totalVol=206,038,215"
+2026-01-26T09:30:00.000-05:00,"VP ADAPTIVE: nBins=106 (trLen=20, userMax=30), rangeSize=20.54, binSize=0.194"
+2026-01-26T09:30:00.000-05:00,"VP FULL: VPOC=81.111 VAH=81.595 VAL=70.55 bins=106 totalVol=232,635,840"
+2026-01-26T09:30:00.000-05:00,SPRING: conf=0.801 [close=0.277 reclaim=0.149 vol=0.136 age=0.14 tests=0.1] pivot=71.78 pivotAge=11b
+2026-02-19T09:30:00.000-05:00,"TR DETECTED: Support=60.07, Resistance=77.23, Len=20, SlopeUp=false"
+2026-02-19T09:30:00.000-05:00,"VP ADAPTIVE: nBins=89 (trLen=20, userMax=30), rangeSize=17.16, binSize=0.193"
+2026-02-19T09:30:00.000-05:00,"VP FULL: VPOC=70 VAH=71.446 VAL=60.07 bins=89 totalVol=293,048,894"
+2026-02-19T09:30:00.000-05:00,"VPOC SHIFT: Prior=81.111, will compare when VP recalculates"
+2026-02-23T09:30:00.000-05:00,"VP ADAPTIVE: nBins=88 (trLen=20, userMax=30), rangeSize=16.88, binSize=0.192"
+2026-02-23T09:30:00.000-05:00,"VP FULL: VPOC=69.962 VAH=70.058 VAL=61.81 bins=88 totalVol=298,669,997"
+2026-02-23T09:30:00.000-05:00,SPRING: conf=0.766 [close=0.261 reclaim=0.188 vol=0.077 age=0.14 tests=0.1] pivot=60.07 pivotAge=11b
+2026-02-24T09:30:00.000-05:00,"STATUS: TR=true, SOS=1, LPS=0, VP=true, Score=0, VPOCmig=false"
